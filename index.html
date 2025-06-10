@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人视觉小说评分榜</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="background-overlay"></div>
+
+    <!-- 顶部 Banner 和导航 -->
+    <header class="main-header">
+        <div class="banner">
+            <h1 class="banner-title">My VN Shelf</h1>
+            <nav class="banner-nav">
+                <a href="#" target="_blank">关于</a>
+                <a href="https://github.com" target="_blank">GitHub</a>
+            </nav>
+        </div>
+        <div class="controls-bar">
+            <button id="drawer-toggle" class="drawer-toggle-btn" aria-label="Toggle Categories">
+                <!-- SVG Icon for menu -->
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M3 4H21V6H3V4ZM3 11H21V13H3V11ZM3 18H21V20H3V18Z"></path></svg>
+            </button>
+            <div class="search-container">
+                <input type="search" id="search-input" placeholder="搜索游戏名...">
+            </div>
+        </div>
+    </header>
+
+    <!-- 分类抽屉 -->
+    <aside id="category-drawer" class="category-drawer">
+        <h2 class="drawer-title">分类筛选</h2>
+        <div id="category-list" class="category-list">
+            <!-- 分类将由JS动态生成 -->
+        </div>
+    </aside>
+
+    <!-- 主内容区：VN列表 -->
+    <main id="vn-list-container" class="vn-list-container">
+        <!-- 卡片将由JS动态生成 -->
+    </main>
+
+    <!-- 弹窗 Modal -->
+    <div id="modal-container" class="modal-container" style="display: none;">
+        <div class="modal-content">
+            <button id="modal-close-btn" class="modal-close-btn" aria-label="Close Modal">
+                <!-- SVG Icon for close -->
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.586l4.95-4.95 1.414 1.414-4.95 4.95 4.95 4.95-1.414 1.414-4.95-4.95-4.95 4.95-1.414-1.414 4.95-4.95-4.95-4.95L7.05 5.636l4.95 4.95z"></path></svg>
+            </button>
+            <div id="modal-body">
+                <!-- 弹窗内容将由JS动态生成 -->
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
