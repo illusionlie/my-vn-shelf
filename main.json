@@ -4,7 +4,8 @@
     "title_translated": "白日梦的构想图",
     "title_original": "白昼夢の青写真",
     "company": "Laplacian",
-    "cover_image": "images/case-1.jpg",
+    "cover_image": "images/85317.jpg",
+    "vndb_url": "https://vndb.org/v26987",
     "tags": ["悬疑", "科幻", "Meta"],
     "rating_overall": 9.5,
     "rating_details": {
@@ -20,7 +21,8 @@
     "title_translated": "夏日口袋",
     "title_original": "Summer Pockets",
     "company": "Key",
-    "cover_image": "images/case-2.jpg",
+    "cover_image": "images/85430.jpg",
+    "vndb_url": "https://vndb.org/v20424",
     "tags": ["催泪", "日常", "恋爱"],
     "rating_overall": 8.8,
     "rating_details": {
@@ -36,7 +38,8 @@
     "title_translated": "命运石之门",
     "title_original": "Steins;Gate",
     "company": "5pb. / MAGES.",
-    "cover_image": "images/case-3.jpg",
+    "cover_image": "images/77819.jpg",
+    "vndb_url": "https://vndb.org/v2002",
     "tags": ["科幻", "时间旅行", "悬疑"],
     "rating_overall": 10,
     "rating_details": {

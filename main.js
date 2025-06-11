@@ -117,7 +117,9 @@ document.addEventListener('DOMContentLoaded', () => {
         card.innerHTML = `
             <img src="${vn.cover_image}" alt="${vn.title_translated} Cover" class="vn-card-cover">
             <div class="vn-card-content">
-                <h3 class="vn-title-translated">${vn.title_translated}</h3>
+                <a href="${vn.vndb_url}" target="_blank" rel="noopener noreferrer" class="vn-title-link">
+                    <h3 class="vn-title-translated">${vn.title_translated}</h3>
+                </a>
                 <p class="vn-title-original">${vn.title_original}</p>
                 <p class="vn-company">${vn.company}</p>
                 <div class="vn-tags">${tagsHtml}</div>
