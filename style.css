@@ -96,6 +96,12 @@ body {
     margin-bottom: 10px;
 }
 
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
 .banner-title {
     font-size: 1.5rem;
     font-weight: 700;
@@ -112,11 +118,76 @@ body {
     color: var(--secondary-text-color);
     text-decoration: none;
     transition: color var(--transition-fast);
-    margin-left: 0; /* 移除旧的 margin */
+    margin-left: 0;
 }
 
 .banner-nav a:hover {
     color: var(--accent-color);
+}
+
+/* --- Mobile Navigation Styles --- */
+.mobile-nav {
+    position: relative; /* For positioning the dropdown menu */
+}
+
+.more-menu-toggle-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    color: var(--secondary-text-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.more-menu-toggle-btn:hover {
+    color: var(--accent-color);
+}
+.more-menu-toggle-btn svg {
+    width: 22px;
+    height: 22px;
+}
+
+.more-menu {
+    position: absolute;
+    top: calc(100% + 10px); /* Position below the button with a small gap */
+    right: 0;
+    background-color: var(--drawer-bg-color);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: var(--border-radius-sm);
+    box-shadow: var(--shadow-medium);
+    border: 1px solid var(--border-color);
+    width: 150px;
+    padding: 8px;
+    z-index: 110; /* Above the header */
+    
+    /* Hidden state */
+    opacity: 0;
+    transform: translateY(-10px);
+    pointer-events: none;
+    transition: opacity var(--transition-fast), transform var(--transition-fast);
+}
+
+.more-menu.open {
+    /* Visible state */
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.more-menu a {
+    display: block;
+    color: var(--primary-text-color);
+    text-decoration: none;
+    padding: 10px 12px;
+    border-radius: 6px;
+    transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.more-menu a:hover {
+    background-color: var(--accent-color);
+    color: #fff;
 }
 
 /* --- Hamburger Icon Animation --- */
@@ -491,7 +562,14 @@ body {
 }
 
 /* --- Responsive Design --- */
-@media (max-width: 768px) {
+.mobile-only {
+    display: none;
+}
+
+@media screen and (max-width: 700px) {
+    body {
+        background-image: url('https://api.illusionlie.com/randomBackground?type=vertical');
+    }
     body.drawer-open {
         padding-left: 260px;
     }
@@ -506,8 +584,17 @@ body {
     }
     .banner-title { font-size: 1.2rem; }
     .banner-nav { display: none; } /* Hide nav on small screens */
+    .desktop-only {
+        display: none;
+    }
+    .mobile-only {
+        display: block; /* Or flex, depending on needs */
+    }
 }
-@media (max-width: 500px) {
+@media screen and (max-width: 500px) {
+    body {
+        background-image: url('https://api.illusionlie.com/randomBackground?type=vertical');
+    }
     body.drawer-open {
         padding-left: 0; /* No content shift on mobile */
     }

@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const themeToggleBtn = document.getElementById('theme-toggle-btn');
     const body = document.body;
     const mainHeader = document.querySelector('.main-header');
+    const moreMenuToggle = document.getElementById('more-menu-toggle');
+    const moreMenu = document.getElementById('more-menu');
 
     // --- Theme Management ---
     const ICONS = {
@@ -157,6 +159,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function closeMoreMenu() {
+        if (moreMenu.classList.contains('open')) {
+            moreMenu.classList.remove('open');
+        }
+    }
+
     // --- Modal Logic ---
     function openModal(content) {
         modalBody.innerHTML = content;
@@ -250,6 +258,39 @@ document.addEventListener('DOMContentLoaded', () => {
                     categoryDrawer.classList.remove('open');
                     document.body.classList.remove('drawer-open');
                     document.querySelector('.main-header').classList.remove('drawer-open');
+                }
+            }
+        });
+
+        if (moreMenuToggle) {
+            moreMenuToggle.addEventListener('click', (e) => {
+                e.stopPropagation(); // Prevent document click listener from firing immediately
+                moreMenu.classList.toggle('open');
+            });
+        }
+        
+        // Close more menu when a link inside is clicked
+        if (moreMenu) {
+            moreMenu.addEventListener('click', (e) => {
+                if (e.target.tagName === 'A') {
+                    closeMoreMenu();
+                }
+            });
+        }
+
+        // Click outside to close drawer and more menu
+        document.addEventListener('click', (e) => {
+            // Drawer closing logic
+            if (categoryDrawer.classList.contains('open')) {
+                if (!categoryDrawer.contains(e.target) && !drawerToggle.contains(e.target)) {
+                    closeDrawer();
+                }
+            }
+
+            // More menu closing logic
+            if (moreMenu && moreMenu.classList.contains('open')) {
+                if (!moreMenu.contains(e.target) && !moreMenuToggle.contains(e.target)) {
+                    closeMoreMenu();
                 }
             }
         });
