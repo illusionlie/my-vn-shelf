@@ -1,53 +1,319 @@
 [
   {
     "id": 1,
-    "title_translated": "白日梦的构想图",
-    "title_original": "白昼夢の青写真",
-    "company": "Laplacian",
-    "cover_image": "images/85317.jpg",
-    "vndb_url": "https://vndb.org/v26987",
-    "tags": ["悬疑", "科幻", "Meta"],
-    "rating_overall": 9.5,
+    "title_translated": "U-ena -空焰火少女-",
+    "title_original": "U-ena -遠花火の少女-",
+    "company": "HemiolaStudio",
+    "cover_image": "images/u-ena.jpg",
+    "vndb_url": "https://vndb.org/v30922",
+    "tags": ["中等时长", "科幻", "日常", "全年龄"],
+    "rating_overall": 7.0,
     "rating_details": {
-      "剧情": 10,
-      "画风CG": 9,
-      "配音配乐": 9
+      "剧情": 7,
+      "画风CG": 8,
+      "配音配乐": 8,
+      "系统": 8
     },
-    "review_short": "一部探讨虚拟与现实、存在与意义的杰作。Laplacian的集大成之作，Meta元素运用得炉火纯青。",
-    "review_full": "本作的剧本深度和结构设计堪称业界顶尖。通过三个章节、不同视角和世界线的交织，将一个关于“我是谁”的哲学命题探讨得淋漓尽致。海野老师的CG一如既往地稳定且富有表现力，音乐与剧情的配合天衣无缝，尤其是关键场景的BGM，能瞬间将情绪推向高潮。如果你喜欢需要思考的剧情，本作不容错过。"
+    "review_short": "我的入门作，优秀的世界观设定，然而日常与主线的配比并不均衡...",
+    "review_full": "在我意识到这实际上是我的视觉小说入门作时，我想我应该重新从头再玩一次再给出评价。毕竟时间有点久，大多数记忆都消散了"
   },
   {
     "id": 2,
-    "title_translated": "夏日口袋",
-    "title_original": "Summer Pockets",
-    "company": "Key",
-    "cover_image": "images/85430.jpg",
-    "vndb_url": "https://vndb.org/v20424",
-    "tags": ["催泪", "日常", "恋爱"],
-    "rating_overall": 8.8,
+    "title_translated": "未来广播与人工鸽",
+    "title_original": "未来ラジオと人工鳩",
+    "company": "Laplacian",
+    "cover_image": "images/mirai-radio.jpg",
+    "vndb_url": "https://vndb.org/v22603",
+    "tags": ["中等时长", "科幻", "末日"],
+    "rating_overall": 8.0,
     "rating_details": {
-      "剧情": 9,
-      "画风CG": 10,
-      "配音配乐": 8
+      "剧情": 8,
+      "画风CG": 7,
+      "配音配乐": 7.5,
+      "系统": 6,
+      "H场景": 7
     },
-    "review_short": "Key社的夏日与回忆之诗。忘记了暑假，也请不要忘记那个夏天所发生的一切。",
-    "review_full": "典型的Key社风格，在轻松欢乐的日常中埋下伏笔，最后在ALKA线和Pocket线集中爆发情感。画风清新亮丽，Na-Ga和和泉つばす的组合堪称完美，每一张CG都美得可以做壁纸。音乐方面，虽然不如《CLANNAD》或《Little Busters!》那样拥有传世神曲，但整体质量上乘，很好地烘托了夏日的氛围。略有不足的是部分个人线剧情稍显平淡，但瑕不掩瑜。"
+    "review_short": "占位符",
+    "review_full": "占位符"
   },
   {
     "id": 3,
-    "title_translated": "命运石之门",
-    "title_original": "Steins;Gate",
-    "company": "5pb. / MAGES.",
-    "cover_image": "images/77819.jpg",
-    "vndb_url": "https://vndb.org/v2002",
-    "tags": ["科幻", "时间旅行", "悬疑"],
-    "rating_overall": 10,
+    "title_translated": "致命十二人",
+    "title_original": "Fatal Twelve",
+    "company": "LYCORIS (aiueo Kompany)",
+    "cover_image": "images/fatal12.jpg",
+    "vndb_url": "https://vndb.org/v19843",
+    "tags": ["较长时长", "悬疑", "智斗", "命运"],
+    "rating_overall": 8.5,
     "rating_details": {
-      "剧情": 10,
-      "画风CG": 8,
-      "配音配乐": 10
+      "剧情": 8.5,
+      "画风CG": 7,
+      "配音配乐": 7.5,
+      "系统": 8.5
     },
-    "review_short": "无需多言的满分神作。一部关于爱、友情与抗争命运的史诗。",
-    "review_full": "《命运石之门》的伟大之处在于其严谨的科学设定（虽然是伪科学）、无懈可击的剧情逻辑和令人窒息的氛围营造。从前期慢热的日常，到中期急转直下的紧张，再到后期为了拯救所爱之人一次次穿越时间线的绝望与执着，情感铺垫层层递进，让玩家与主角冈部伦太郎感同身受。huke的画风极具个性，虽然CG数量和精细度并非顶级，但与作品的硬核氛围完美契合。音乐和配音更是无可挑剔，宫野真守的演绎堪称传奇。"
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 4,
+    "title_translated": "家喵二三事 Vol. 1",
+    "title_original": "ウチのペット事情 Vol.1",
+    "company": "Animal Herb",
+    "cover_image": "images/my-pet-situation.jpg",
+    "vndb_url": "https://vndb.org/v19843",
+    "tags": ["较短时长", "废萌", "同居", "日常", "Live2D"],
+    "rating_overall": 6.0,
+    "rating_details": {
+      "剧情": 5,
+      "画风CG": 8,
+      "配音配乐": 7,
+      "系统": 7,
+      "H场景": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 5,
+    "title_translated": "玉响未来",
+    "title_original": "タマユラミライ",
+    "company": "Azurite",
+    "cover_image": "images/tamayura-mirai.jpg",
+    "vndb_url": "https://vndb.org/v23501",
+    "tags": ["长时长", "奇幻", "魔法使", "剧情作"],
+    "rating_overall": 9.0,
+    "rating_details": {
+      "剧情": 9,
+      "画风CG": 9,
+      "配音配乐": 8,
+      "系统": 8,
+      "H场景": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 6,
+    "title_translated": "亚托莉 -我挚爱的时光-",
+    "title_original": "ATRI -My Dear Moments-",
+    "company": "Frontwing",
+    "cover_image": "images/atri.jpg",
+    "vndb_url": "https://vndb.org/v27448",
+    "tags": ["中等时长", "末日", "机器人", "全年龄"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 8,
+      "配音配乐": 8,
+      "系统": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 7,
+    "title_translated": "恋爱，我就借走了",
+    "title_original": "恋愛、借りちゃいました",
+    "company": "ASa Project",
+    "cover_image": "images/renkari.jpg",
+    "vndb_url": "https://vndb.org/v25366",
+    "tags": ["中等时长", "三角恋", "喜剧"],
+    "rating_overall": 8.5,
+    "rating_details": {
+      "剧情": 8.5,
+      "画风CG": 8,
+      "配音配乐": 7.5,
+      "系统": 6,
+      "H场景": 6
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 8,
+    "title_translated": "魔女的夜宴",
+    "title_original": "サノバウィッチ",
+    "company": "Yuzusoft",
+    "cover_image": "images/sanoba-witch.jpg",
+    "vndb_url": "https://vndb.org/v16044",
+    "tags": ["较长时长", "魔法", "废萌", "喜剧"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 8,
+      "配音配乐": 7.5,
+      "系统": 9,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 9,
+    "title_translated": "星空列车与白的旅行",
+    "title_original": "星空鉄道とシロの旅",
+    "company": "Shiratamaco",
+    "cover_image": "images/hoshizora.jpg",
+    "vndb_url": "https://vndb.org/v28297",
+    "tags": ["短时长", "火车", "萝莉", "全年龄", "值得深思"],
+    "rating_overall": 9.0,
+    "rating_details": {
+      "剧情": 8.5,
+      "画风CG": 9.5,
+      "配音配乐": 8.5,
+      "系统": 5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 10,
+    "title_translated": "星光咖啡馆与死神之蝶",
+    "title_original": "喫茶ステラと死神の蝶",
+    "company": "Yuzusoft",
+    "cover_image": "images/cafe-stella.jpg",
+    "vndb_url": "https://vndb.org/v26414",
+    "tags": ["长时长", "咖啡馆", "日常", "废萌"],
+    "rating_overall": 5.0,
+    "rating_details": {
+      "剧情": 5,
+      "画风CG": 6,
+      "配音配乐": 7,
+      "系统": 9,
+      "H场景": 6.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 11,
+    "title_translated": "千恋＊万花",
+    "title_original": "千恋＊万花",
+    "company": "Yuzusoft",
+    "cover_image": "images/senren-banka.jpg",
+    "vndb_url": "https://vndb.org/v19073",
+    "tags": ["长时长", "奇幻", "日常", "经典", "废萌"],
+    "rating_overall": 6.0,
+    "rating_details": {
+      "剧情": 6,
+      "画风CG": 6,
+      "配音配乐": 8,
+      "系统": 9,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 11,
+    "title_translated": "巧克甜恋",
+    "title_original": "あまいろショコラータ",
+    "company": "Cabbage Soft",
+    "cover_image": "images/amairo-chocolata.jpg",
+    "vndb_url": "https://vndb.org/v26581",
+    "tags": ["较短时长", "咖啡馆", "兽耳", "萝莉", "废萌"],
+    "rating_overall": 6.5,
+    "rating_details": {
+      "剧情": 5.5,
+      "画风CG": 9.5,
+      "配音配乐": 8,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 12,
+    "title_translated": "巧克甜恋2",
+    "title_original": "あまいろショコラータ２",
+    "company": "Cabbage Soft",
+    "cover_image": "images/amairo-chocolata2.jpg",
+    "vndb_url": "https://vndb.org/v30228",
+    "tags": ["较短时长", "咖啡馆", "兽耳", "萝莉", "废萌"],
+    "rating_overall": 6.0,
+    "rating_details": {
+      "剧情": 5,
+      "画风CG": 9.5,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 13,
+    "title_translated": "献给神明般的你",
+    "title_original": "神様のような君へ",
+    "company": "CUBE",
+    "cover_image": "images/kamikimi.jpg",
+    "vndb_url": "https://vndb.org/v26639",
+    "tags": ["中等时长", "机器人", "科幻", "黑客"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 8.5,
+      "配音配乐": 8,
+      "系统": 9,
+      "H场景": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 14,
+    "title_translated": "GINKA",
+    "title_original": "GINKA",
+    "company": "Frontwing",
+    "cover_image": "images/ginka.jpg",
+    "vndb_url": "https://vndb.org/v38430",
+    "tags": ["较短时长", "奇幻", "全年龄", "神明"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 7.5,
+      "配音配乐": 9.5,
+      "系统": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 15,
+    "title_translated": "水葬银货的Istria",
+    "title_original": "水葬銀貨のイストリア",
+    "company": "Uguisu Kagura",
+    "cover_image": "images/suisou-ginka.jpg",
+    "vndb_url": "https://vndb.org/v20471",
+    "tags": ["长时长", "悲剧", "绝望", "抑郁"],
+    "rating_overall": 9.5,
+    "rating_details": {
+      "剧情": 9.5,
+      "画风CG": 8,
+      "配音配乐": 10,
+      "系统": 2,
+      "H场景": 7
+    },
+    "review_short": "悲剧是rkr的拿手好戏, 从头到尾的压抑感却能驱使人们更进一步",
+    "review_full": "对我而言的第一部神作, 无论是角色刻画、氛围、回忆、叙事都是绝对的一流。如果说纸魔是从日常变为绝望的悲剧的非日常, 那么水葬就是从头(甚至于从故事的开头)开始就是踏入了真正的深渊, 配乐和配音的画面感很强, 仿佛被命运玩弄的就是屏幕前的自己。唯一美中不足的就是个人线实在是敷衍, 说真的完全可以去掉个人线只留真结局的(不过个人共通线还是很不错的)"
+  },
+  {
+    "id": 16,
+    "title_translated": "灵感满溢的甜蜜创想",
+    "title_original": "ハミダシクリエイティブ",
+    "company": "Madosoft",
+    "cover_image": "images/hamidashi-creative.jpg",
+    "vndb_url": "https://vndb.org/v27449",
+    "tags": ["较长时长", "学生会", "废萌"],
+    "rating_overall": 7.0,
+    "rating_details": {
+      "剧情": 6.5,
+      "画风CG": 6,
+      "配音配乐": 7,
+      "系统": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
   }
 ]
