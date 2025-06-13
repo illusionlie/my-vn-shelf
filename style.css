@@ -60,6 +60,11 @@ body {
     transition: padding-left var(--transition-medium), color var(--transition-medium), background-color var(--transition-medium); /* 添加颜色过渡 */
 }
 
+body.drawer-open {
+    padding-left: 260px;
+    overflow: hidden;
+}
+
 .background-overlay {
     position: fixed;
     top: 0;
@@ -307,6 +312,27 @@ body {
     border-color: var(--accent-color);
 }
 
+/* --- Style for scrollbar to match theme --- */
+/* Works on WebKit browsers like Chrome, Safari, Edge */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--tag-bg-color);
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--accent-color);
+}
+
 /* --- Category Drawer --- */
 .category-drawer {
     position: fixed;
@@ -324,6 +350,8 @@ body {
     padding: 20px;
     padding-top: 140px; /* 避开 header */
     box-sizing: border-box;
+    display: flex; /* Use flexbox for better vertical layout control */
+    flex-direction: column;
 }
 
 .category-drawer.open {
@@ -335,12 +363,16 @@ body {
     font-weight: 500;
     margin-bottom: 20px;
     color: var(--secondary-text-color);
+    flex-shrink: 0; /* Prevent title from shrinking */
 }
 
 .category-list {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+    overflow-y: auto; /* Show vertical scrollbar only when needed */
+    flex-grow: 1; /* Allow the list to take up all available vertical space */
+    padding-right: 5px; /* Add a little space for the scrollbar */
 }
 
 .category-btn {
