@@ -60,8 +60,8 @@
     "title_original": "ウチのペット事情 Vol.1",
     "company": "Animal Herb",
     "cover_image": "images/my-pet-situation.jpg",
-    "vndb_url": "https://vndb.org/v19843",
-    "tags": ["较短时长", "废萌", "同居", "日常", "Live2D"],
+    "vndb_url": "https://vndb.org/v34004",
+    "tags": ["短时长", "废萌", "同居", "日常", "Live2D"],
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 5,
@@ -117,7 +117,7 @@
     "company": "ASa Project",
     "cover_image": "images/renkari.jpg",
     "vndb_url": "https://vndb.org/v25366",
-    "tags": ["中等时长", "三角恋", "喜剧"],
+    "tags": ["较长时长", "三角恋", "喜剧"],
     "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8.5,
@@ -136,7 +136,7 @@
     "company": "Yuzusoft",
     "cover_image": "images/sanoba-witch.jpg",
     "vndb_url": "https://vndb.org/v16044",
-    "tags": ["较长时长", "魔法", "废萌", "喜剧"],
+    "tags": ["长时长", "魔法", "废萌", "喜剧"],
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
@@ -249,7 +249,7 @@
     "company": "CUBE",
     "cover_image": "images/kamikimi.jpg",
     "vndb_url": "https://vndb.org/v26639",
-    "tags": ["中等时长", "机器人", "科幻", "黑客"],
+    "tags": ["较长时长", "机器人", "科幻", "黑客"],
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
@@ -286,7 +286,7 @@
     "company": "Uguisu Kagura",
     "cover_image": "images/suisou-ginka.jpg",
     "vndb_url": "https://vndb.org/v20471",
-    "tags": ["长时长", "悲剧", "绝望", "抑郁"],
+    "tags": ["长时长", "悲剧", "绝望", "抑郁", "剧情作"],
     "rating_overall": 9.5,
     "rating_details": {
       "剧情": 9.5,
@@ -305,7 +305,233 @@
     "company": "Madosoft",
     "cover_image": "images/hamidashi-creative.jpg",
     "vndb_url": "https://vndb.org/v27449",
-    "tags": ["较长时长", "学生会", "废萌"],
+    "tags": ["长时长", "学生会", "废萌"],
+    "rating_overall": 7.0,
+    "rating_details": {
+      "剧情": 6.5,
+      "画风CG": 6,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 17,
+    "title_translated": "熠熠星光魔物娘",
+    "title_original": "キラキラモンスターズ",
+    "company": "WhitePowder",
+    "cover_image": "images/kiramon.jpg",
+    "vndb_url": "https://vndb.org/v24802",
+    "tags": ["短时长", "电波系", "喜剧"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 8,
+      "画风CG": 9,
+      "配音配乐": 10,
+      "系统": 7.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 18,
+    "title_translated": "灵感满溢的甜蜜创想凸",
+    "title_original": "ハミダシクリエイティブ凸",
+    "company": "Madosoft",
+    "cover_image": "images/hamidashi-creative-totsu.jpg",
+    "vndb_url": "https://vndb.org/v33205",
+    "tags": ["中等时长", "学生会", "废萌"],
+    "rating_overall": 5.5,
+    "rating_details": {
+      "剧情": 5,
+      "画风CG": 6.5,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 6
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 19,
+    "title_translated": "9-nine-九次九日九重色",
+    "title_original": "9-nine-ここのつここのかここのいろ",
+    "company": "Palette",
+    "cover_image": "images/9koro.jpg",
+    "vndb_url": "https://vndb.org/v19829",
+    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "rating_overall": 6.5,
+    "rating_details": {
+      "剧情": 6.5,
+      "画风CG": 9,
+      "配音配乐": 9,
+      "系统": 9,
+      "H场景": 9
+    },
+    "review_short": "世界设定如此吸引人的系列, 然而第一作的结尾多少有些仓促",
+    "review_full": "人称剧情作守门员的9-nine-系列, 采用了分割商法, 第一作虽说是为了介绍和展开世界观和设定, 但结尾多少是仓促了。就算如此, 作为系列的开头也属于合格的程度"
+  },
+  {
+    "id": 20,
+    "title_translated": "9-nine-天色天歌天籁音",
+    "title_original": "9-nine-そらいろそらうたそらのおと",
+    "company": "Palette",
+    "cover_image": "images/9Sorairo.jpg",
+    "vndb_url": "https://vndb.org/v21668",
+    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "rating_overall": 9.0,
+    "rating_details": {
+      "剧情": 9.0,
+      "画风CG": 9,
+      "配音配乐": 9,
+      "系统": 9,
+      "H场景": 9
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 21,
+    "title_translated": "9-nine-春色春恋春熙风",
+    "title_original": "9-nine-はるいろはるこいはるのかぜ",
+    "company": "Palette",
+    "cover_image": "images/9Haruiro.jpg",
+    "vndb_url": "https://vndb.org/v23740",
+    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 8.5,
+      "画风CG": 9,
+      "配音配乐": 9,
+      "系统": 9,
+      "H场景": 9
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 22,
+    "title_translated": "9-nine-雪色雪花雪余痕",
+    "title_original": "9-nine-ゆきいろゆきはなゆきのあと",
+    "company": "Palette",
+    "cover_image": "images/9Yukiiro.jpg",
+    "vndb_url": "https://vndb.org/v26523",
+    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "rating_overall": 10.0,
+    "rating_details": {
+      "剧情": 10,
+      "画风CG": 9,
+      "配音配乐": 9,
+      "系统": 9,
+      "H场景": 9
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 23,
+    "title_translated": "9-nine-新章",
+    "title_original": "9-nine- 新章",
+    "company": "Palette",
+    "cover_image": "images/9-nine-New-Episode.jpg",
+    "vndb_url": "https://vndb.org/v29724",
+    "tags": ["很短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "rating_overall": 6.5,
+    "rating_details": {
+      "剧情": 6.5,
+      "画风CG": 9,
+      "配音配乐": 9,
+      "系统": 9
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 24,
+    "title_translated": "巧克甜恋3",
+    "title_original": "あまいろショコラータ 3",
+    "company": "Cabbage Soft",
+    "cover_image": "images/amairo-chocolata3.jpg",
+    "vndb_url": "https://vndb.org/v41339",
+    "tags": ["较短时长", "咖啡馆", "兽耳", "萝莉", "废萌"],
+    "rating_overall": 7.0,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 9,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 25,
+    "title_translated": "幸运草的约定",
+    "title_original": "Clover Day's",
+    "company": "ALcot",
+    "cover_image": "images/clover-days.jpg",
+    "vndb_url": "https://vndb.org/v13325",
+    "tags": ["长时长", "废萌", "Live2D"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 8,
+      "配音配乐": 9,
+      "系统": 8.5,
+      "H场景": 9
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 26,
+    "title_translated": "AMBITIOUS MISSION",
+    "title_original": "AMBITIOUS MISSION",
+    "company": "SAGA PLANETS",
+    "cover_image": "images/AMBITIOUS-MISSION.jpg",
+    "vndb_url": "https://vndb.org/v33036",
+    "tags": ["较长时长", "怪盗"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 8,
+      "配音配乐": 8,
+      "系统": 8,
+      "H场景": 7.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 27,
+    "title_translated": "想要传达给你的爱恋",
+    "title_original": "恋×シンアイ彼女",
+    "company": "Us:track",
+    "cover_image": "images/koikake.jpg",
+    "vndb_url": "https://vndb.org/v17516",
+    "tags": ["较长时长", "校园", "坏女人"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 7,
+      "配音配乐": 7,
+      "系统": 6,
+      "H场景": 6.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 999,
+    "title_translated": "",
+    "title_original": "",
+    "company": "",
+    "cover_image": "images/",
+    "vndb_url": "",
+    "tags": [],
     "rating_overall": 7.0,
     "rating_details": {
       "剧情": 6.5,
