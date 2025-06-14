@@ -6,7 +6,7 @@
     "company": "HemiolaStudio",
     "cover_image": "images/u-ena.jpg",
     "vndb_url": "https://vndb.org/v30922",
-    "tags": ["中等时长", "科幻", "日常", "全年龄"],
+    "tags": ["中等时长", "科幻", "全年龄"],
     "rating_overall": 7.0,
     "rating_details": {
       "剧情": 7,
@@ -61,7 +61,7 @@
     "company": "Animal Herb",
     "cover_image": "images/my-pet-situation.jpg",
     "vndb_url": "https://vndb.org/v34004",
-    "tags": ["短时长", "废萌", "同居", "日常", "Live2D"],
+    "tags": ["短时长", "废萌", "同居", "Live2D"],
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 5,
@@ -173,7 +173,7 @@
     "company": "Yuzusoft",
     "cover_image": "images/cafe-stella.jpg",
     "vndb_url": "https://vndb.org/v26414",
-    "tags": ["长时长", "咖啡馆", "日常", "废萌"],
+    "tags": ["长时长", "咖啡馆", "废萌"],
     "rating_overall": 5.0,
     "rating_details": {
       "剧情": 5,
@@ -192,7 +192,7 @@
     "company": "Yuzusoft",
     "cover_image": "images/senren-banka.jpg",
     "vndb_url": "https://vndb.org/v19073",
-    "tags": ["长时长", "奇幻", "日常", "经典", "废萌"],
+    "tags": ["长时长", "奇幻", "经典", "废萌"],
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 6,
@@ -295,8 +295,8 @@
       "系统": 2,
       "H场景": 7
     },
-    "review_short": "悲剧是rkr的拿手好戏, 从头到尾的压抑感却能驱使人们更进一步",
-    "review_full": "对我而言的第一部神作, 无论是角色刻画、氛围、回忆、叙事都是绝对的一流。如果说纸魔是从日常变为绝望的悲剧的非日常, 那么水葬就是从头(甚至于从故事的开头)开始就是踏入了真正的深渊, 配乐和配音的画面感很强, 仿佛被命运玩弄的就是屏幕前的自己。唯一美中不足的就是个人线实在是敷衍, 说真的完全可以去掉个人线只留真结局的(不过个人共通线还是很不错的)"
+    "review_short": "悲剧是rkr的拿手好戏，从头到尾的压抑感却能驱使人们更进一步",
+    "review_full": "对我而言的第一部神作，无论是角色刻画、氛围、回忆、叙事都是绝对的一流。如果说纸魔是从日常变为绝望的悲剧的非日常，那么水葬就是从头(甚至于从故事的开头)开始就是踏入了真正的深渊，配乐和配音的画面感很强，仿佛被命运玩弄的就是屏幕前的自己。唯一美中不足的就是个人线实在是敷衍，说真的完全可以去掉个人线只留真结局的(不过个人共通线还是很不错的)。还有就是莺神乐的系统怎么做的这么烂的啊。"
   },
   {
     "id": 16,
@@ -324,8 +324,8 @@
     "company": "WhitePowder",
     "cover_image": "images/kiramon.jpg",
     "vndb_url": "https://vndb.org/v24802",
-    "tags": ["短时长", "电波系", "喜剧"],
-    "rating_overall": 8.0,
+    "tags": ["短时长", "电波系", "喜剧", "Meta", "全年龄"],
+    "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8,
       "画风CG": 9,
@@ -342,7 +342,7 @@
     "company": "Madosoft",
     "cover_image": "images/hamidashi-creative-totsu.jpg",
     "vndb_url": "https://vndb.org/v33205",
-    "tags": ["中等时长", "学生会", "废萌"],
+    "tags": ["中等时长", "学生会", "废萌", "FD"],
     "rating_overall": 5.5,
     "rating_details": {
       "剧情": 5,
@@ -437,7 +437,7 @@
     "company": "Palette",
     "cover_image": "images/9-nine-New-Episode.jpg",
     "vndb_url": "https://vndb.org/v29724",
-    "tags": ["很短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "tags": ["很短时长", "奇幻", "悬疑", "FD", "分割商法"],
     "rating_overall": 6.5,
     "rating_details": {
       "剧情": 6.5,
@@ -493,7 +493,7 @@
     "company": "SAGA PLANETS",
     "cover_image": "images/AMBITIOUS-MISSION.jpg",
     "vndb_url": "https://vndb.org/v33036",
-    "tags": ["较长时长", "怪盗"],
+    "tags": ["较长时长", "怪盗", "奇幻"],
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7.5,
@@ -525,6 +525,399 @@
     "review_full": "占位符"
   },
   {
+    "id": 28,
+    "title_translated": "保健室的老师与沉迷吹泡泡的助手",
+    "title_original": "保健室のセンセーとシャボン玉中毒の助手",
+    "company": "Citrus",
+    "cover_image": "images/hokejyo.jpg",
+    "vndb_url": "https://vndb.org/v28666",
+    "tags": ["较短时长", "萝莉", "值得深思","剧情作", "分割商法"],
+    "rating_overall": 8.5,
+    "rating_details": {
+      "剧情": 8.5,
+      "画风CG": 10,
+      "配音配乐": 9,
+      "系统": 8,
+      "H场景": 7.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 29,
+    "title_translated": "AMBITIOUS MISSION After Episode 2 Yae & Nijimu & Charl",
+    "title_original": "AMBITIOUS MISSION アフターエピソード2 弥栄＆虹夢＆シャル",
+    "company": "SAGA PLANETS",
+    "cover_image": "images/AMBITIOUS-MISSION-fd2.jpg",
+    "vndb_url": "https://vndb.org/v46789",
+    "tags": ["短时长", "怪盗", "奇幻", "FD"],
+    "rating_overall": 6.0,
+    "rating_details": {
+      "剧情": 6,
+      "画风CG": 8,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 6
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 30,
+    "title_translated": "AMBITIOUS MISSION After Episode 1 Kaguya & Atena",
+    "title_original": "AMBITIOUS MISSION アフターエピソード1 かぐや＆あてな",
+    "company": "SAGA PLANETS",
+    "cover_image": "images/AMBITIOUS-MISSION-fd1.jpg",
+    "vndb_url": "https://vndb.org/v42712",
+    "tags": ["短时长", "怪盗", "奇幻", "FD"],
+    "rating_overall": 5.5,
+    "rating_details": {
+      "剧情": 5.5,
+      "画风CG": 8,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 6
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 31,
+    "title_translated": "人狼村之谜",
+    "title_original": "レイジングループ",
+    "company": "Kemco Corporation",
+    "cover_image": "images/Rei-Jin-G-Lu-P.jpg",
+    "vndb_url": "https://vndb.org/v21289",
+    "tags": ["较长时长", "智斗", "狼人", "剧情作", "全年龄"],
+    "rating_overall": 10.0,
+    "rating_details": {
+      "剧情": 9.5,
+      "画风CG": 8.5,
+      "配音配乐": 10,
+      "系统": 7.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 32,
+    "title_translated": "Dreamin' Her -我梦见了她。-",
+    "title_original": "Dreamin' Her -僕は、彼女の夢を見る。-",
+    "company": "LIFE0",
+    "cover_image": "images/Doriher.jpg",
+    "vndb_url": "https://vndb.org/v28915",
+    "tags": ["短时长", "梦境", "绝望", "全年龄"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 7.5,
+      "配音配乐": 9,
+      "系统": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 33,
+    "title_translated": "少女＊领域",
+    "title_original": "オトメ＊ドメイン",
+    "company": "Palette Qualia",
+    "cover_image": "images/otomedo.jpg",
+    "vndb_url": "https://vndb.org/v18149",
+    "tags": ["中等时长", "伪娘"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 8.5,
+      "配音配乐": 7.5,
+      "系统": 8,
+      "H场景": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 34,
+    "title_translated": "三色△绘恋 -Tricolour Lovestory-",
+    "title_original": "三色△绘恋 -Tricolour Lovestory-",
+    "company": "绘恋制作组",
+    "cover_image": "images/tricolour-lovestory.jpg",
+    "vndb_url": "https://vndb.org/v21803",
+    "tags": ["长时长", "三角恋", "校园", "全年龄"],
+    "rating_overall": 3.0,
+    "rating_details": {
+      "剧情": 3,
+      "画风CG": 7,
+      "配音配乐": 6,
+      "系统": 7
+    },
+    "review_short": "日常能做到比柚子还水的少见程度",
+    "review_full": "接触的第一部国产视觉小说(朋友推荐)。设定和主题很现实能引起共鸣(中国式教育)并且潜力也很高，本身剧情的主线流程不算拉跨，配音也不差，倒是配乐没什么特色也没什么氛围感，就是这个硬塞一堆重复无聊的日常和不怎么出所料的意外很让人反感。这也是我第一部玩到一半直接抛弃的作品，对这部作品最大的印象就是：水文本量。"
+  },
+  {
+    "id": 35,
+    "title_translated": "糖调! -sugarfull tempering-",
+    "title_original": "しゅがてん！-sugarfull tempering-",
+    "company": "Recette",
+    "cover_image": "images/sugatem.jpg",
+    "vndb_url": "https://vndb.org/v20196",
+    "tags": ["中等时长", "咖啡馆", "废萌"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 8,
+      "画风CG": 8.5,
+      "配音配乐": 7.5,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "废萌中的佳作, 对剧情节奏把控的很好",
+    "review_full": "虽说还是废萌，但剧情整体节奏很好，不会想让人玩不下去。人物设定也很鲜明，推荐新人入坑作。到最后剧情其实还有一个悬念。"
+  },
+  {
+    "id": 36,
+    "title_translated": "纸上魔法使",
+    "title_original": "紙の上の魔法使い",
+    "company": "Uguisu Kagura",
+    "cover_image": "images/kamimaho.jpg",
+    "vndb_url": "https://vndb.org/v15871",
+    "tags": ["长时长", "奇幻", "抑郁", "悲剧", "剧情作"],
+    "rating_overall": 10.0,
+    "rating_details": {
+      "剧情": 10,
+      "画风CG": 8.5,
+      "配音配乐": 10,
+      "系统": 8
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 37,
+    "title_translated": "每日亲吻洛丽塔",
+    "title_original": "毎日キスしてロリータ",
+    "company": "夜のひつじ",
+    "cover_image": "images/KissLoli.jpg",
+    "vndb_url": "https://vndb.org/v30461",
+    "tags": ["短时长", "萝莉", "拔作"],
+    "rating_overall": 6.5,
+    "rating_details": {
+      "剧情": 6.5,
+      "画风CG": 9.5,
+      "配音配乐": 9,
+      "系统": 7,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 38,
+    "title_translated": "永不枯萎的世界与终焉之花",
+    "title_original": "枯れない世界と終わる花",
+    "company": "Sweet & Tea",
+    "cover_image": "images/karehana.jpg",
+    "vndb_url": "https://vndb.org/v19658",
+    "tags": ["较短时长", "咖啡馆", "天使"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 8.5,
+      "配音配乐": 7.5,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 39,
+    "title_translated": "诱惑自大洛丽塔",
+    "title_original": "誘惑なまいきロリータ",
+    "company": "夜のひつじ",
+    "cover_image": "images/Ill-Mannered-Seduction-Lolita.jpg",
+    "vndb_url": "https://vndb.org/v27389",
+    "tags": ["短时长", "萝莉", "拔作"],
+    "rating_overall": 6.0,
+    "rating_details": {
+      "剧情": 6,
+      "画风CG": 9.5,
+      "配音配乐": 7.5,
+      "系统": 7,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 40,
+    "title_translated": "LAMUNATION!",
+    "title_original": "LAMUNATION!",
+    "company": "WhitePowder",
+    "cover_image": "images/LAMUNATION.jpg",
+    "vndb_url": "https://vndb.org/v18344",
+    "tags": ["中等时长", "电波系", "喜剧", "Meta"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 7.5,
+      "配音配乐": 7.5,
+      "系统": 7,
+      "H场景": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 41,
+    "title_translated": "恋爱，我就借走了 椿&千夏&小夏 迷你小剧场",
+    "title_original": "恋愛、借りちゃいました 椿＆ちなつ＆こなつ ミニアフターストーリー",
+    "company": "ASa Project",
+    "cover_image": "images/renkari-fd1.jpg",
+    "vndb_url": "https://vndb.org/v26419",
+    "tags": ["短时长", "喜剧", "FD"],
+    "rating_overall": 6.5,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 7,
+      "配音配乐": 7,
+      "系统": 6,
+      "H场景": 6
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 42,
+    "title_translated": "恋爱，我就借走了 绘未&八纯 迷你小剧场",
+    "title_original": "恋愛、借りちゃいました 絵未＆八純 ミニアフターストーリー",
+    "company": "ASa Project",
+    "cover_image": "images/renkari-fd2.jpg",
+    "vndb_url": "https://vndb.org/v26418",
+    "tags": ["短时长", "三角恋", "喜剧", "FD"],
+    "rating_overall": 7.0,
+    "rating_details": {
+      "剧情": 7.5,
+      "画风CG": 7,
+      "配音配乐": 7,
+      "系统": 6,
+      "H场景": 6
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 43,
+    "title_translated": "保健室的老师与哥特萝莉校医",
+    "title_original": "保健室のセンセーとゴスロリの校医",
+    "company": "Citrus",
+    "cover_image": "images/hokeloli.jpg",
+    "vndb_url": "https://vndb.org/v33099",
+    "tags": ["较短时长", "萝莉", "值得深思", "分割商法"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 8.0,
+      "画风CG": 9,
+      "配音配乐": 8.5,
+      "系统": 8,
+      "H场景": 7.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 44,
+    "title_translated": "保健室的老师与小恶魔会长",
+    "title_original": "保健室のセンセーと小悪魔な会長",
+    "company": "Citrus",
+    "cover_image": "images/hokecho.jpg",
+    "vndb_url": "https://vndb.org/v33969",
+    "tags": ["较短时长", "萝莉", "值得深思", "分割商法"],
+    "rating_overall": 6.0,
+    "rating_details": {
+      "剧情": 5.5,
+      "画风CG": 6,
+      "配音配乐": 8.5,
+      "系统": 8,
+      "H场景": 7.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 45,
+    "title_translated": "流星 -a wish star-",
+    "title_original": "流る星 -a wish star-",
+    "company": "NANACAN",
+    "cover_image": "images/nagaruboshi.jpg",
+    "vndb_url": "https://vndb.org/v51298",
+    "tags": ["短时长", "废萌"],
+    "rating_overall": 5.5,
+    "rating_details": {
+      "剧情": 5.5,
+      "画风CG": 6,
+      "配音配乐": 7,
+      "系统": 8,
+      "H场景": 7
+    },
+    "review_short": "比较寻常没什么特色和突出的废萌",
+    "review_full": "剧情设计老套，剧情节奏相对稳定，其他没什么突出点"
+  },
+  {
+    "id": 46,
+    "title_translated": "星之终途",
+    "title_original": "終のステラ",
+    "company": "Key",
+    "cover_image": "images/Stella-of-The-End.jpg",
+    "vndb_url": "https://vndb.org/v29443",
+    "tags": ["短时长", "科幻", "末日", "机器人", "全年龄"],
+    "rating_overall": 8.5,
+    "rating_details": {
+      "剧情": 8.5,
+      "画风CG": 10,
+      "配音配乐": 9,
+      "系统": 8.5
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 47,
+    "title_translated": "宝石少女 1st.cut:The Reason She Must Perish",
+    "title_original": "プトリカ 1st.cut:The Reason She Must Perish",
+    "company": "Totometori",
+    "cover_image": "images/Putorika-1st.jpg",
+    "vndb_url": "https://vndb.org/v49261",
+    "tags": ["短时长", "魔法", "抑郁", "全年龄"],
+    "rating_overall": 8.0,
+    "rating_details": {
+      "剧情": 8,
+      "画风CG": 8,
+      "配音配乐": 7.5,
+      "系统": 7
+    },
+    "review_short": "占位符",
+    "review_full": "占位符"
+  },
+  {
+    "id": 48,
+    "title_translated": "霞流宝石心 -壮志凌云振寰宇-",
+    "title_original": "ジュエリー・ハーツ・アカデミア -We will wing wonder world-",
+    "company": "Cabbage Soft",
+    "cover_image": "images/jeweha.jpg",
+    "vndb_url": "https://vndb.org/v33175",
+    "tags": ["长时长", "魔法", "战斗"],
+    "rating_overall": 7.5,
+    "rating_details": {
+      "剧情": 7,
+      "画风CG": 7.5,
+      "配音配乐": 8,
+      "系统": 8,
+      "H场景": 7.5
+    },
+    "review_short": "一言难尽，瑕瑜互见。但还是推荐一试",
+    "review_full": "第一次接触到卷心菜社的战斗系作品，我对其前中后期看法基本不同。世界观设定挺有意思，前期节奏也很好，中期有些拖延，后期有点敷衍... 比较难绷的是主角组的每个人的战斗CG从头用到尾，除了加了个特效以外没什么区别。战斗很少会有CG，描述也相对敷衍，给我的感觉就是第一次制作这种类型的作品，从其他各方面 (比如音乐) 透漏出一种经费不足的感觉。说实话我是挺看好这部作品的，但奈何扣分点太多了，我寻思卷心菜社也不穷吧。"
+  },
+  {
     "id": 999,
     "title_translated": "",
     "title_original": "",
@@ -537,7 +930,8 @@
       "剧情": 6.5,
       "画风CG": 6,
       "配音配乐": 7,
-      "系统": 8
+      "系统": 8,
+      "H场景": 7
     },
     "review_short": "占位符",
     "review_full": "占位符"
