@@ -199,13 +199,51 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showReviewModal(vn) {
+        const parsedReviewHtml = parseReviewContent(vn.review_full);
+        
         const modalContent = `
             <div class="modal-review-full">
                 <h3>${vn.title_translated} - 详细评测</h3>
-                <p class="review-full-text">${vn.review_full}</p>
+                <div class="review-content-body">
+                    ${parsedReviewHtml}
+                </div>
             </div>
         `;
         openModal(modalContent);
+    }
+
+    // A lightweight parser for review content
+    function parseReviewContent(text) {
+        if (!text) return '';
+
+        const lines = text.split('\n');
+        
+        const htmlParts = lines.map(line => {
+            const trimmedLine = line.trim();
+
+            if (trimmedLine === '') {
+                return ''; // Skip empty lines
+            }
+
+            // Check for \line separator
+            if (trimmedLine === '\\line') {
+                return '<hr class="review-separator">';
+            }
+
+            // Check for \img tag using regex
+            const imgRegex = /^\\img\[(.*?)(?:\|(.*?))?\]$/;
+            const imgMatch = trimmedLine.match(imgRegex);
+            if (imgMatch) {
+                const src = imgMatch[1];
+                const alt = imgMatch[2] || '评测图片'; // Provide a default alt text
+                return `<img src="${src}" alt="${alt}" class="review-image" loading="lazy">`;
+            }
+
+            // Otherwise, it's a paragraph of text
+            return `<p class="review-full-text">${trimmedLine}</p>`;
+        });
+
+        return htmlParts.join('');
     }
 
     // --- Event Listeners ---

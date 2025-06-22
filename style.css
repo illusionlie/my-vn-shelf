@@ -575,6 +575,7 @@ body.drawer-open {
 .modal-rating-details h3, .modal-review-full h3 {
     margin-top: 0;
     font-size: 1.5rem;
+    margin-bottom: 25px; /* Added space below title */
 }
 .rating-item {
     display: flex;
@@ -586,11 +587,34 @@ body.drawer-open {
 .rating-item:last-child { border-bottom: none; }
 .rating-label { font-size: 1rem; }
 .rating-value { font-size: 1.1rem; font-weight: 500; color: var(--accent-color); }
+
+/* Container for the parsed review content */
+.review-content-body {
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* Consistent spacing between all elements */
+}
 .review-full-text {
     font-size: 1rem;
     line-height: 1.8;
     color: var(--secondary-text-color);
-    white-space: pre-wrap; /* Preserve line breaks */
+    margin: 0; /* Margin is now handled by the gap in the container */
+    white-space: normal; /* Override pre-wrap as we now have proper paragraphs */
+}
+
+/* Styles for the new elements */
+.review-separator {
+    border: none;
+    height: 1px;
+    background-color: var(--border-color);
+    margin: 10px 0; /* Vertical spacing */
+}
+
+.review-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--border-radius-sm);
+    margin: 8px 0; /* Vertical spacing */
 }
 
 /* --- Responsive Design --- */
