@@ -117,7 +117,11 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         card.innerHTML = `
-            <img src="${vn.cover_image}" alt="${vn.title_translated} Cover" class="vn-card-cover" loading="lazy">
+            <div class="gallery">
+                <a href="/images/${vn.cover_image}" data-caption="${vn.title_translated}">
+                    <img src="/images/thumbnails/${vn.cover_image}" alt="${vn.title_translated} Cover" class="vn-card-cover" loading="lazy">
+                </a>
+            </div>
             <div class="vn-card-content">
                 <a href="${vn.vndb_url}" target="_blank" rel="noopener noreferrer" class="vn-title-link">
                     <h3 class="vn-title-translated">${vn.title_translated}</h3>
@@ -130,6 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="vn-rating" data-action="show-rating">
                         <div class="stars-container">${starsHtml}</div>
                         <span class="rating-score">${vn.rating_overall.toFixed(1)}</span>
+                        <span class="time-length">| ⏱️${vn.time_length}小时</span>
                     </div>
                     <p class="vn-review-short" data-action="show-review">${vn.review_short}</p>
                 </div>
@@ -369,6 +374,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- Start the application ---
-    initializeTheme(); // Initialize theme first
+    initializeTheme();
     fetchData();
 });

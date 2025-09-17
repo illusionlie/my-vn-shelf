@@ -502,6 +502,12 @@ body.drawer-open {
     font-weight: 500;
 }
 
+.time-length {
+    font-size: 0.8rem;
+    color: var(--secondary-text-color);
+    margin-left: 10px;
+}
+
 .vn-review-short {
     margin-top: 15px;
     font-size: 0.9rem;

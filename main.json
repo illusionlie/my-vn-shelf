@@ -4,9 +4,10 @@
     "title_translated": "U-ena -空焰火少女-",
     "title_original": "U-ena -遠花火の少女-",
     "company": "HemiolaStudio",
-    "cover_image": "images/u-ena.jpg",
+    "cover_image": "u-ena.webp",
     "vndb_url": "https://vndb.org/v30922",
-    "tags": ["中等时长", "科幻", "全年龄"],
+    "tags": ["科幻", "全年龄"],
+    "time_length": 13,
     "rating_overall": 7.0,
     "rating_details": {
       "剧情": 7,
@@ -22,9 +23,10 @@
     "title_translated": "未来广播与人工鸽",
     "title_original": "未来ラジオと人工鳩",
     "company": "Laplacian",
-    "cover_image": "images/mirai-radio.jpg",
+    "cover_image": "mirai-radio.webp",
     "vndb_url": "https://vndb.org/v22603",
-    "tags": ["中等时长", "科幻", "末日"],
+    "tags": ["科幻", "末日"],
+    "time_length": 19,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 8,
@@ -41,9 +43,10 @@
     "title_translated": "致命十二人",
     "title_original": "Fatal Twelve",
     "company": "LYCORIS (aiueo Kompany)",
-    "cover_image": "images/fatal12.jpg",
+    "cover_image": "fatal12.webp",
     "vndb_url": "https://vndb.org/v19843",
-    "tags": ["较长时长", "悬疑", "智斗", "命运"],
+    "tags": ["悬疑", "智斗", "命运"],
+    "time_length": 24,
     "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8.5,
@@ -59,13 +62,14 @@
     "title_translated": "家喵二三事 Vol. 1",
     "title_original": "ウチのペット事情 Vol.1",
     "company": "Animal Herb",
-    "cover_image": "images/my-pet-situation.jpg",
+    "cover_image": "my-pet-situation.webp",
     "vndb_url": "https://vndb.org/v34004",
-    "tags": ["短时长", "废萌", "同居", "Live2D"],
-    "rating_overall": 6.0,
+    "tags": ["废萌", "同居", "Live2D"],
+    "time_length": 6,
+    "rating_overall": 7.0,
     "rating_details": {
       "剧情": 5,
-      "画风CG": 8,
+      "画风CG": 9,
       "配音配乐": 7,
       "系统": 7,
       "H场景": 8
@@ -78,9 +82,10 @@
     "title_translated": "玉响未来",
     "title_original": "タマユラミライ",
     "company": "Azurite",
-    "cover_image": "images/tamayura-mirai.jpg",
+    "cover_image": "tamayura-mirai.webp",
     "vndb_url": "https://vndb.org/v23501",
-    "tags": ["长时长", "奇幻", "魔法使", "剧情作"],
+    "tags": ["奇幻", "魔法使", "剧情作"],
+    "time_length": 30,
     "rating_overall": 9.0,
     "rating_details": {
       "剧情": 9,
@@ -97,9 +102,10 @@
     "title_translated": "亚托莉 -我挚爱的时光-",
     "title_original": "ATRI -My Dear Moments-",
     "company": "Frontwing",
-    "cover_image": "images/atri.jpg",
+    "cover_image": "atri.webp",
     "vndb_url": "https://vndb.org/v27448",
-    "tags": ["中等时长", "末日", "机器人", "全年龄"],
+    "tags": ["末日", "机器人", "全年龄"],
+    "time_length": 13,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
@@ -115,9 +121,10 @@
     "title_translated": "恋爱，我就借走了",
     "title_original": "恋愛、借りちゃいました",
     "company": "ASa Project",
-    "cover_image": "images/renkari.jpg",
+    "cover_image": "renkari.webp",
     "vndb_url": "https://vndb.org/v25366",
-    "tags": ["较长时长", "三角恋", "喜剧"],
+    "tags": ["三角恋", "喜剧"],
+    "time_length": 29,
     "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8.5,
@@ -134,9 +141,10 @@
     "title_translated": "魔女的夜宴",
     "title_original": "サノバウィッチ",
     "company": "Yuzusoft",
-    "cover_image": "images/sanoba-witch.jpg",
+    "cover_image": "sanoba-witch.webp",
     "vndb_url": "https://vndb.org/v16044",
-    "tags": ["长时长", "魔法", "废萌", "喜剧"],
+    "tags": ["魔法", "废萌", "喜剧"],
+    "time_length": 50,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
@@ -153,9 +161,10 @@
     "title_translated": "星空列车与白的旅行",
     "title_original": "星空鉄道とシロの旅",
     "company": "Shiratamaco",
-    "cover_image": "images/hoshizora.jpg",
+    "cover_image": "hoshizora.webp",
     "vndb_url": "https://vndb.org/v28297",
-    "tags": ["短时长", "火车", "萝莉", "全年龄", "值得深思"],
+    "tags": ["火车", "萝莉", "全年龄"],
+    "time_length": 9,
     "rating_overall": 9.0,
     "rating_details": {
       "剧情": 8.5,
@@ -171,9 +180,10 @@
     "title_translated": "星光咖啡馆与死神之蝶",
     "title_original": "喫茶ステラと死神の蝶",
     "company": "Yuzusoft",
-    "cover_image": "images/cafe-stella.jpg",
+    "cover_image": "cafe-stella.webp",
     "vndb_url": "https://vndb.org/v26414",
-    "tags": ["长时长", "咖啡馆", "废萌"],
+    "tags": ["咖啡馆", "废萌"],
+    "time_length": 41,
     "rating_overall": 5.0,
     "rating_details": {
       "剧情": 5,
@@ -190,13 +200,14 @@
     "title_translated": "千恋＊万花",
     "title_original": "千恋＊万花",
     "company": "Yuzusoft",
-    "cover_image": "images/senren-banka.jpg",
+    "cover_image": "senren-banka.webp",
     "vndb_url": "https://vndb.org/v19073",
-    "tags": ["长时长", "奇幻", "经典", "废萌"],
-    "rating_overall": 6.0,
+    "tags": ["奇幻", "经典", "废萌"],
+    "time_length": 46,
+    "rating_overall": 6.5,
     "rating_details": {
       "剧情": 6,
-      "画风CG": 6,
+      "画风CG": 7,
       "配音配乐": 8,
       "系统": 9,
       "H场景": 8
@@ -205,13 +216,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 11,
+    "id": 12,
     "title_translated": "巧克甜恋",
     "title_original": "あまいろショコラータ",
     "company": "Cabbage Soft",
-    "cover_image": "images/amairo-chocolata.jpg",
+    "cover_image": "amairo-chocolata.webp",
     "vndb_url": "https://vndb.org/v26581",
-    "tags": ["较短时长", "咖啡馆", "兽耳", "萝莉", "废萌"],
+    "tags": ["咖啡馆", "兽耳", "萝莉", "废萌"],
+    "time_length": 13,
     "rating_overall": 6.5,
     "rating_details": {
       "剧情": 5.5,
@@ -224,13 +236,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 12,
+    "id": 13,
     "title_translated": "巧克甜恋2",
     "title_original": "あまいろショコラータ２",
     "company": "Cabbage Soft",
-    "cover_image": "images/amairo-chocolata2.jpg",
+    "cover_image": "amairo-chocolata2.webp",
     "vndb_url": "https://vndb.org/v30228",
-    "tags": ["较短时长", "咖啡馆", "兽耳", "萝莉", "废萌"],
+    "tags": ["咖啡馆", "兽耳", "萝莉", "废萌"],
+    "time_length": 17,
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 5,
@@ -243,13 +256,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 13,
+    "id": 14,
     "title_translated": "献给神明般的你",
     "title_original": "神様のような君へ",
     "company": "CUBE",
-    "cover_image": "images/kamikimi.jpg",
+    "cover_image": "kamikimi.webp",
     "vndb_url": "https://vndb.org/v26639",
-    "tags": ["较长时长", "机器人", "科幻", "黑客"],
+    "tags": ["机器人", "科幻", "黑客"],
+    "time_length": 26,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
@@ -262,13 +276,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 14,
+    "id": 15,
     "title_translated": "GINKA",
     "title_original": "GINKA",
     "company": "Frontwing",
-    "cover_image": "images/ginka.jpg",
+    "cover_image": "ginka.webp",
     "vndb_url": "https://vndb.org/v38430",
-    "tags": ["较短时长", "奇幻", "全年龄", "神明"],
+    "tags": ["奇幻", "全年龄", "神明"],
+    "time_length": 12,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7.5,
@@ -280,13 +295,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 15,
+    "id": 16,
     "title_translated": "水葬银货的Istria",
     "title_original": "水葬銀貨のイストリア",
     "company": "Uguisu Kagura",
-    "cover_image": "images/suisou-ginka.jpg",
+    "cover_image": "suisou-ginka.webp",
     "vndb_url": "https://vndb.org/v20471",
-    "tags": ["长时长", "悲剧", "绝望", "抑郁", "剧情作"],
+    "tags": ["悲剧", "绝望", "抑郁", "剧情作"],
+    "time_length": 43,
     "rating_overall": 9.5,
     "rating_details": {
       "剧情": 9.5,
@@ -299,13 +315,14 @@
     "review_full": "对我而言的第一部神作，无论是角色刻画、氛围、回忆、叙事都是绝对的一流。如果说纸魔是从日常变为绝望的悲剧的非日常，那么水葬就是从头(甚至于从故事的开头)开始就是踏入了真正的深渊，配乐和配音的画面感很强，仿佛被命运玩弄的就是屏幕前的自己。唯一美中不足的就是个人线实在是敷衍，说真的完全可以去掉个人线只留真结局的(不过个人共通线还是很不错的)。还有就是莺神乐的系统怎么做的这么烂的啊。"
   },
   {
-    "id": 16,
+    "id": 17,
     "title_translated": "灵感满溢的甜蜜创想",
     "title_original": "ハミダシクリエイティブ",
     "company": "Madosoft",
-    "cover_image": "images/hamidashi-creative.jpg",
+    "cover_image": "hamidashi-creative.webp",
     "vndb_url": "https://vndb.org/v27449",
-    "tags": ["长时长", "学生会", "废萌"],
+    "tags": ["学生会", "废萌"],
+    "time_length": 46,
     "rating_overall": 7.0,
     "rating_details": {
       "剧情": 6.5,
@@ -318,13 +335,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 17,
+    "id": 18,
     "title_translated": "熠熠星光魔物娘",
     "title_original": "キラキラモンスターズ",
     "company": "WhitePowder",
-    "cover_image": "images/kiramon.jpg",
+    "cover_image": "kiramon.webp",
     "vndb_url": "https://vndb.org/v24802",
-    "tags": ["短时长", "电波系", "喜剧", "Meta", "全年龄"],
+    "tags": ["电波系", "喜剧", "Meta", "全年龄"],
+    "time_length": 8,
     "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8,
@@ -336,13 +354,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 18,
+    "id": 19,
     "title_translated": "灵感满溢的甜蜜创想凸",
     "title_original": "ハミダシクリエイティブ凸",
     "company": "Madosoft",
-    "cover_image": "images/hamidashi-creative-totsu.jpg",
+    "cover_image": "hamidashi-creative-totsu.webp",
     "vndb_url": "https://vndb.org/v33205",
-    "tags": ["中等时长", "学生会", "废萌", "FD"],
+    "tags": ["学生会", "废萌", "FD"],
+    "time_length": 20,
     "rating_overall": 5.5,
     "rating_details": {
       "剧情": 5,
@@ -355,13 +374,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 19,
+    "id": 20,
     "title_translated": "9-nine-九次九日九重色",
     "title_original": "9-nine-ここのつここのかここのいろ",
     "company": "Palette",
-    "cover_image": "images/9koro.jpg",
+    "cover_image": "9koro.webp",
     "vndb_url": "https://vndb.org/v19829",
-    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "tags": ["奇幻", "悬疑", "剧情作", "分割商法"],
+    "time_length": 8,
     "rating_overall": 6.5,
     "rating_details": {
       "剧情": 6.5,
@@ -370,17 +390,18 @@
       "系统": 9,
       "H场景": 9
     },
-    "review_short": "世界设定如此吸引人的系列, 然而第一作的结尾多少有些仓促",
+    "review_short": "万恶的分割商法, 第一作的结尾戛然而止",
     "review_full": "人称剧情作守门员的9-nine-系列, 采用了分割商法, 第一作虽说是为了介绍和展开世界观和设定, 但结尾多少是仓促了。就算如此, 作为系列的开头也属于合格的程度"
   },
   {
-    "id": 20,
+    "id": 21,
     "title_translated": "9-nine-天色天歌天籁音",
     "title_original": "9-nine-そらいろそらうたそらのおと",
     "company": "Palette",
-    "cover_image": "images/9Sorairo.jpg",
+    "cover_image": "9Sorairo.webp",
     "vndb_url": "https://vndb.org/v21668",
-    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "tags": ["奇幻", "悬疑", "剧情作", "分割商法"],
+    "time_length": 11,
     "rating_overall": 9.0,
     "rating_details": {
       "剧情": 9.0,
@@ -393,13 +414,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 21,
+    "id": 22,
     "title_translated": "9-nine-春色春恋春熙风",
     "title_original": "9-nine-はるいろはるこいはるのかぜ",
     "company": "Palette",
-    "cover_image": "images/9Haruiro.jpg",
+    "cover_image": "9Haruiro.webp",
     "vndb_url": "https://vndb.org/v23740",
-    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "tags": ["奇幻", "悬疑", "剧情作", "分割商法"],
+    "time_length": 11,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 8.5,
@@ -412,32 +434,34 @@
     "review_full": "占位符"
   },
   {
-    "id": 22,
+    "id": 23,
     "title_translated": "9-nine-雪色雪花雪余痕",
     "title_original": "9-nine-ゆきいろゆきはなゆきのあと",
     "company": "Palette",
-    "cover_image": "images/9Yukiiro.jpg",
+    "cover_image": "9Yukiiro.webp",
     "vndb_url": "https://vndb.org/v26523",
-    "tags": ["较短时长", "奇幻", "悬疑", "剧情作", "分割商法"],
+    "tags": ["奇幻", "悬疑", "剧情作", "分割商法"],
+    "time_length": 12,
     "rating_overall": 10.0,
     "rating_details": {
       "剧情": 10,
       "画风CG": 9,
       "配音配乐": 9,
       "系统": 9,
-      "H场景": 9
+      "H场景": 10
     },
     "review_short": "占位符",
     "review_full": "占位符"
   },
   {
-    "id": 23,
+    "id": 24,
     "title_translated": "9-nine-新章",
     "title_original": "9-nine- 新章",
     "company": "Palette",
-    "cover_image": "images/9-nine-New-Episode.jpg",
+    "cover_image": "9-nine-New-Episode.webp",
     "vndb_url": "https://vndb.org/v29724",
-    "tags": ["很短时长", "奇幻", "悬疑", "FD", "分割商法"],
+    "tags": ["奇幻", "悬疑", "FD", "分割商法"],
+    "time_length": 4,
     "rating_overall": 6.5,
     "rating_details": {
       "剧情": 6.5,
@@ -449,14 +473,15 @@
     "review_full": "占位符"
   },
   {
-    "id": 24,
+    "id": 25,
     "title_translated": "巧克甜恋3",
     "title_original": "あまいろショコラータ 3",
     "company": "Cabbage Soft",
-    "cover_image": "images/amairo-chocolata3.jpg",
+    "cover_image": "amairo-chocolata3.webp",
     "vndb_url": "https://vndb.org/v41339",
-    "tags": ["较短时长", "咖啡馆", "兽耳", "萝莉", "废萌"],
-    "rating_overall": 7.0,
+    "tags": ["咖啡馆", "兽耳", "萝莉", "废萌"],
+    "time_length": 11,
+    "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
       "画风CG": 9,
@@ -468,18 +493,19 @@
     "review_full": "占位符"
   },
   {
-    "id": 25,
+    "id": 26,
     "title_translated": "幸运草的约定",
     "title_original": "Clover Day's",
     "company": "ALcot",
-    "cover_image": "images/clover-days.jpg",
+    "cover_image": "clover-days.webp",
     "vndb_url": "https://vndb.org/v13325",
-    "tags": ["长时长", "废萌", "Live2D"],
+    "tags": ["废萌", "Live2D"],
+    "time_length": 44,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 7,
-      "画风CG": 8,
-      "配音配乐": 9,
+      "画风CG": 8.5,
+      "配音配乐": 8.5,
       "系统": 8.5,
       "H场景": 9
     },
@@ -487,16 +513,17 @@
     "review_full": "占位符"
   },
   {
-    "id": 26,
+    "id": 27,
     "title_translated": "AMBITIOUS MISSION",
     "title_original": "AMBITIOUS MISSION",
     "company": "SAGA PLANETS",
-    "cover_image": "images/AMBITIOUS-MISSION.jpg",
+    "cover_image": "AMBITIOUS-MISSION.webp",
     "vndb_url": "https://vndb.org/v33036",
-    "tags": ["较长时长", "怪盗", "奇幻"],
+    "tags": ["怪盗", "奇幻"],
+    "time_length": 36,
     "rating_overall": 7.5,
     "rating_details": {
-      "剧情": 7.5,
+      "剧情": 8,
       "画风CG": 8,
       "配音配乐": 8,
       "系统": 8,
@@ -506,17 +533,18 @@
     "review_full": "占位符"
   },
   {
-    "id": 27,
+    "id": 28,
     "title_translated": "想要传达给你的爱恋",
     "title_original": "恋×シンアイ彼女",
     "company": "Us:track",
-    "cover_image": "images/koikake.jpg",
+    "cover_image": "koikake.webp",
     "vndb_url": "https://vndb.org/v17516",
-    "tags": ["较长时长", "校园", "坏女人"],
+    "tags": ["校园", "坏女人"],
+    "time_length": 28,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
-      "画风CG": 7,
+      "画风CG": 8,
       "配音配乐": 7,
       "系统": 6,
       "H场景": 6.5
@@ -525,32 +553,34 @@
     "review_full": "占位符"
   },
   {
-    "id": 28,
+    "id": 29,
     "title_translated": "保健室的老师与沉迷吹泡泡的助手",
     "title_original": "保健室のセンセーとシャボン玉中毒の助手",
     "company": "Citrus",
-    "cover_image": "images/hokejyo.jpg",
+    "cover_image": "hokejyo.webp",
     "vndb_url": "https://vndb.org/v28666",
-    "tags": ["较短时长", "萝莉", "值得深思","剧情作", "分割商法"],
+    "tags": ["萝莉", "剧情作", "分割商法"],
+    "time_length": 16,
     "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8.5,
       "画风CG": 10,
-      "配音配乐": 9,
+      "配音配乐": 9.5,
       "系统": 8,
-      "H场景": 7.5
+      "H场景": 8
     },
     "review_short": "占位符",
     "review_full": "占位符"
   },
   {
-    "id": 29,
+    "id": 30,
     "title_translated": "AMBITIOUS MISSION After Episode 2 Yae & Nijimu & Charl",
     "title_original": "AMBITIOUS MISSION アフターエピソード2 弥栄＆虹夢＆シャル",
     "company": "SAGA PLANETS",
-    "cover_image": "images/AMBITIOUS-MISSION-fd2.jpg",
+    "cover_image": "AMBITIOUS-MISSION-fd2.webp",
     "vndb_url": "https://vndb.org/v46789",
-    "tags": ["短时长", "怪盗", "奇幻", "FD"],
+    "tags": ["怪盗", "奇幻", "FD"],
+    "time_length": 5,
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 6,
@@ -563,13 +593,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 30,
+    "id": 31,
     "title_translated": "AMBITIOUS MISSION After Episode 1 Kaguya & Atena",
     "title_original": "AMBITIOUS MISSION アフターエピソード1 かぐや＆あてな",
     "company": "SAGA PLANETS",
-    "cover_image": "images/AMBITIOUS-MISSION-fd1.jpg",
+    "cover_image": "AMBITIOUS-MISSION-fd1.webp",
     "vndb_url": "https://vndb.org/v42712",
-    "tags": ["短时长", "怪盗", "奇幻", "FD"],
+    "tags": ["怪盗", "奇幻", "FD"],
+    "time_length": 5,
     "rating_overall": 5.5,
     "rating_details": {
       "剧情": 5.5,
@@ -582,31 +613,33 @@
     "review_full": "占位符"
   },
   {
-    "id": 31,
+    "id": 32,
     "title_translated": "人狼村之谜",
     "title_original": "レイジングループ",
     "company": "Kemco Corporation",
-    "cover_image": "images/Rei-Jin-G-Lu-P.jpg",
+    "cover_image": "Rei-Jin-G-Lu-P.webp",
     "vndb_url": "https://vndb.org/v21289",
-    "tags": ["较长时长", "轮回", "狼人", "剧情作", "全年龄"],
+    "tags": ["轮回", "狼人", "剧情作", "全年龄"],
+    "time_length": 37,
     "rating_overall": 10.0,
     "rating_details": {
-      "剧情": 9.5,
+      "剧情": 10,
       "画风CG": 8.5,
       "配音配乐": 10,
-      "系统": 7.5
+      "系统": 7
     },
     "review_short": "占位符",
     "review_full": "占位符"
   },
   {
-    "id": 32,
+    "id": 33,
     "title_translated": "Dreamin' Her -我梦见了她。-",
     "title_original": "Dreamin' Her -僕は、彼女の夢を見る。-",
     "company": "LIFE0",
-    "cover_image": "images/Doriher.jpg",
+    "cover_image": "Doriher.webp",
     "vndb_url": "https://vndb.org/v28915",
-    "tags": ["短时长", "梦境", "绝望", "全年龄"],
+    "tags": ["梦境", "绝望", "全年龄"],
+    "time_length": 7,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7.5,
@@ -618,13 +651,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 33,
+    "id": 34,
     "title_translated": "少女＊领域",
     "title_original": "オトメ＊ドメイン",
     "company": "Palette Qualia",
-    "cover_image": "images/otomedo.jpg",
+    "cover_image": "otomedo.webp",
     "vndb_url": "https://vndb.org/v18149",
-    "tags": ["中等时长", "伪娘"],
+    "tags": ["伪娘"],
+    "time_length": 25,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 7.5,
@@ -637,17 +671,18 @@
     "review_full": "占位符"
   },
   {
-    "id": 34,
+    "id": 35,
     "title_translated": "三色△绘恋 -Tricolour Lovestory-",
     "title_original": "三色△绘恋 -Tricolour Lovestory-",
     "company": "绘恋制作组",
-    "cover_image": "images/tricolour-lovestory.jpg",
+    "cover_image": "tricolour-lovestory.webp",
     "vndb_url": "https://vndb.org/v21803",
-    "tags": ["长时长", "三角恋", "校园", "全年龄"],
+    "tags": ["三角恋", "校园", "全年龄"],
+    "time_length": 44,
     "rating_overall": 3.5,
     "rating_details": {
       "剧情": 3,
-      "画风CG": 7.5,
+      "画风CG": 7,
       "配音配乐": 6,
       "系统": 8
     },
@@ -655,13 +690,14 @@
     "review_full": "接触的第一部国产视觉小说(朋友推荐)，但实在是太水以及与我都直接drop了。\n\\line\n剧情: 设定和主题很现实能引起共鸣(中国式教育)并且潜力也很高，本身剧情的主线流程不算拉跨。\n但是可以说整作有80%的内容是要么毫无意义，要么无聊至极，真心折磨人。可以说这能达到长时长都是水字数水出来的，就光这一点我已经真心不推荐了。\n\\line\n画风CG: 虽然整体画风不是我的菜，但感觉倒也不差，就是文芷的脸有点难绷。CG这块看得出来用心了，虽然不是特别惊艳但也算不错。\n\\line\n配音配乐: 虽然国产视觉小说我目前只玩过这一部，不过配音也不算尬(除了有些感情比较丰富的时候)，倒是配乐没什么特色也没什么氛围感，中规中矩算是。\n\\line\n系统: 系统也很不错，就是少了关键的backlog跳跃。"
   },
   {
-    "id": 35,
+    "id": 36,
     "title_translated": "糖调! -sugarfull tempering-",
     "title_original": "しゅがてん！-sugarfull tempering-",
     "company": "Recette",
-    "cover_image": "images/sugatem.jpg",
+    "cover_image": "sugatem.webp",
     "vndb_url": "https://vndb.org/v20196",
-    "tags": ["中等时长", "咖啡馆", "废萌"],
+    "tags": ["咖啡馆", "废萌"],
+    "time_length": 22,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 7.5,
@@ -674,13 +710,14 @@
     "review_full": "虽说还是废萌，但剧情整体节奏很好，不会觉得无聊。\n\\line\n剧情: 整体设定比较常见，流程基本也是经典，人物设定比较鲜明，不过因为太平常了没什么突出点。\n\\line\n画风CG: 白玉老师的画风，不够哪一作都是顶级的(好吧就是单纯我喜欢)。CG比较少，SD CG就...不知道该怎么评价(怎么给我一种卷心菜社的感觉)\n\\line\n配音配乐: CV基本是老熟人，配乐这块挺有氛围感的。\n\\line\n系统: 系统像调色板社的(好吧还真是调色板旗下的)\n\\line\nH场景: 没有细看，后面会补的。"
   },
   {
-    "id": 36,
+    "id": 37,
     "title_translated": "纸上魔法使",
     "title_original": "紙の上の魔法使い",
     "company": "Uguisu Kagura",
-    "cover_image": "images/kamimaho.jpg",
+    "cover_image": "kamimaho.webp",
     "vndb_url": "https://vndb.org/v15871",
-    "tags": ["长时长", "奇幻", "抑郁", "悲剧", "剧情作"],
+    "tags": ["奇幻", "抑郁", "悲剧", "剧情作"],
+    "time_length": 34,
     "rating_overall": 10.0,
     "rating_details": {
       "剧情": 10,
@@ -692,13 +729,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 37,
+    "id": 38,
     "title_translated": "每日亲吻洛丽塔",
     "title_original": "毎日キスしてロリータ",
     "company": "夜のひつじ",
-    "cover_image": "images/KissLoli.jpg",
+    "cover_image": "KissLoli.webp",
     "vndb_url": "https://vndb.org/v30461",
-    "tags": ["短时长", "萝莉", "拔作"],
+    "tags": ["萝莉", "拔作"],
+    "time_length": 8,
     "rating_overall": 6.5,
     "rating_details": {
       "剧情": 6.5,
@@ -711,13 +749,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 38,
+    "id": 39,
     "title_translated": "永不枯萎的世界与终焉之花",
     "title_original": "枯れない世界と終わる花",
     "company": "Sweet & Tea",
-    "cover_image": "images/karehana.jpg",
+    "cover_image": "karehana.webp",
     "vndb_url": "https://vndb.org/v19658",
-    "tags": ["较短时长", "咖啡馆", "天使"],
+    "tags": ["咖啡馆", "天使"],
+    "time_length": 12,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7.5,
@@ -730,13 +769,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 39,
+    "id": 40,
     "title_translated": "诱惑自大洛丽塔",
     "title_original": "誘惑なまいきロリータ",
     "company": "夜のひつじ",
-    "cover_image": "images/Ill-Mannered-Seduction-Lolita.jpg",
+    "cover_image": "Ill-Mannered-Seduction-Lolita.webp",
     "vndb_url": "https://vndb.org/v27389",
-    "tags": ["短时长", "萝莉", "拔作"],
+    "tags": ["萝莉", "拔作"],
+    "time_length": 5,
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 6,
@@ -749,13 +789,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 40,
+    "id": 41,
     "title_translated": "LAMUNATION!",
     "title_original": "LAMUNATION!",
     "company": "WhitePowder",
-    "cover_image": "images/LAMUNATION.jpg",
+    "cover_image": "LAMUNATION.webp",
     "vndb_url": "https://vndb.org/v18344",
-    "tags": ["中等时长", "电波系", "喜剧", "Meta"],
+    "tags": ["电波系", "喜剧", "Meta"],
+    "time_length": 17,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7.5,
@@ -768,13 +809,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 41,
+    "id": 42,
     "title_translated": "恋爱，我就借走了 椿&千夏&小夏 迷你小剧场",
     "title_original": "恋愛、借りちゃいました 椿＆ちなつ＆こなつ ミニアフターストーリー",
     "company": "ASa Project",
-    "cover_image": "images/renkari-fd1.jpg",
+    "cover_image": "renkari-fd1.webp",
     "vndb_url": "https://vndb.org/v26419",
-    "tags": ["短时长", "喜剧", "FD"],
+    "tags": ["喜剧", "FD"],
+    "time_length": 3,
     "rating_overall": 6.5,
     "rating_details": {
       "剧情": 7,
@@ -787,13 +829,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 42,
+    "id": 43,
     "title_translated": "恋爱，我就借走了 绘未&八纯 迷你小剧场",
     "title_original": "恋愛、借りちゃいました 絵未＆八純 ミニアフターストーリー",
     "company": "ASa Project",
-    "cover_image": "images/renkari-fd2.jpg",
+    "cover_image": "renkari-fd2.webp",
     "vndb_url": "https://vndb.org/v26418",
-    "tags": ["短时长", "三角恋", "喜剧", "FD"],
+    "tags": ["三角恋", "喜剧", "FD"],
+    "time_length": 3,
     "rating_overall": 7.0,
     "rating_details": {
       "剧情": 7.5,
@@ -806,16 +849,17 @@
     "review_full": "占位符"
   },
   {
-    "id": 43,
+    "id": 44,
     "title_translated": "保健室的老师与哥特萝莉校医",
     "title_original": "保健室のセンセーとゴスロリの校医",
     "company": "Citrus",
-    "cover_image": "images/hokeloli.jpg",
+    "cover_image": "hokeloli.webp",
     "vndb_url": "https://vndb.org/v33099",
-    "tags": ["较短时长", "萝莉", "值得深思", "分割商法"],
-    "rating_overall": 8.0,
+    "tags": ["萝莉", "奇幻", "分割商法"],
+    "time_length": 11,
+    "rating_overall": 8.5,
     "rating_details": {
-      "剧情": 8.0,
+      "剧情": 8.5,
       "画风CG": 9,
       "配音配乐": 8.5,
       "系统": 8,
@@ -825,13 +869,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 44,
+    "id": 45,
     "title_translated": "保健室的老师与小恶魔会长",
     "title_original": "保健室のセンセーと小悪魔な会長",
     "company": "Citrus",
-    "cover_image": "images/hokecho.jpg",
+    "cover_image": "hokecho.webp",
     "vndb_url": "https://vndb.org/v33969",
-    "tags": ["较短时长", "萝莉", "值得深思", "分割商法"],
+    "tags": ["萝莉", "值得深思", "分割商法"],
+    "time_length": 10,
     "rating_overall": 6.0,
     "rating_details": {
       "剧情": 5.5,
@@ -844,13 +889,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 45,
+    "id": 46,
     "title_translated": "流星 -a wish star-",
     "title_original": "流る星 -a wish star-",
     "company": "NANACAN",
-    "cover_image": "images/nagaruboshi.jpg",
+    "cover_image": "nagaruboshi.webp",
     "vndb_url": "https://vndb.org/v51298",
-    "tags": ["短时长", "废萌"],
+    "tags": ["废萌"],
+    "time_length": 4,
     "rating_overall": 5.5,
     "rating_details": {
       "剧情": 5.5,
@@ -863,13 +909,14 @@
     "review_full": "总体没什么新意的传统废萌，没什么突出可讲的点真的。\n\\line\n剧情: 剧情老套路，剧情节奏相对稳定，其他没什么突出点，因为流程比较短所以也还好。\n\\line\n画风CG: 画风不错，CG一般。\n\\line\n配音配乐: 没什么可说的。\n\\line\n系统: 精简但少了点好用的功能。\n\\line\nH场景: 没有细看，后面会补的"
   },
   {
-    "id": 46,
+    "id": 47,
     "title_translated": "星之终途",
     "title_original": "終のステラ",
     "company": "Key",
-    "cover_image": "images/Stella-of-The-End.jpg",
+    "cover_image": "Stella-of-The-End.webp",
     "vndb_url": "https://vndb.org/v29443",
-    "tags": ["短时长", "科幻", "末日", "机器人", "全年龄"],
+    "tags": ["科幻", "末日", "机器人", "全年龄"],
+    "time_length": 10,
     "rating_overall": 8.5,
     "rating_details": {
       "剧情": 8.5,
@@ -881,13 +928,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 47,
+    "id": 48,
     "title_translated": "宝石少女 1st.cut:The Reason She Must Perish",
     "title_original": "プトリカ 1st.cut:The Reason She Must Perish",
     "company": "Totometori",
-    "cover_image": "images/Putorika-1st.jpg",
+    "cover_image": "Putorika-1st.webp",
     "vndb_url": "https://vndb.org/v49261",
-    "tags": ["短时长", "魔法", "抑郁", "全年龄"],
+    "tags": ["魔法", "抑郁", "全年龄"],
+    "time_length": 4,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 8,
@@ -899,13 +947,14 @@
     "review_full": "占位符"
   },
   {
-    "id": 48,
+    "id": 49,
     "title_translated": "霞流宝石心 -壮志凌云振寰宇-",
     "title_original": "ジュエリー・ハーツ・アカデミア -We will wing wonder world-",
     "company": "Cabbage Soft",
-    "cover_image": "images/jeweha.jpg",
+    "cover_image": "jeweha.webp",
     "vndb_url": "https://vndb.org/v33175",
-    "tags": ["长时长", "魔法", "战斗"],
+    "tags": ["魔法", "战斗"],
+    "time_length": 41,
     "rating_overall": 7.5,
     "rating_details": {
       "剧情": 7,
@@ -918,13 +967,14 @@
     "review_full": "第一次接触到卷心菜社的战斗系作品，说实话我是挺看好这部作品的，但奈何扣分点太多了，给我一种努力了但苦于经费不足的感觉，我对其前中后期看法基本不同，卷心菜社真的这么穷吗。\n\\line\n剧情: 世界观设定挺有意思，后面的反转也确实有点小震撼。\n前期节奏很好，大家就着同一个目标慢慢拉近关系；中期有些拖延，感觉干了些什么但又没干什么；后期有点敷衍...或者是节奏加快了，主角团这个提升也基本是在后期。\n人物塑造这一块还是不错的，爱莉安娜赛高！全程下来各个主角的性格和问题还是很鲜明的。\n\\line\n画风CG: 白玉画风神中神，但比较难绷的是主角组的每个人的战斗CG从头用到尾，除了加了个特效以外没什么区别。\n战斗很少会有CG，描述也相对敷衍，基本就是全靠脑补，给我的感觉就是超级经费不足（但凡多点CG！！）\n\\line\n配音配乐: 流程比较长，音乐复用比较多，除开这个问题以外氛围感还是不错的。\n\\line\n系统: 卷心菜社祖传系统，大多数确定要点两下有点难受。\n\\line\nH场景: 感觉比奇异恩典好，但有点审美疲劳了，实用性还可以"
   },
   {
-    "id": 49,
+    "id": 50,
     "title_translated": "天选庶民的真命之选",
     "title_original": "セレクトオブリージュ",
     "company": "Madosoft",
-    "cover_image": "images/Seleobu.jpg",
+    "cover_image": "Seleobu.webp",
     "vndb_url": "https://vndb.org/v47175",
-    "tags": ["长时长", "废萌", "校园"],
+    "tags": ["废萌", "校园"],
+    "time_length": 31,
     "rating_overall": 5.5,
     "rating_details": {
       "剧情": 5,
@@ -937,13 +987,14 @@
     "review_full": "剧情这块抽象的狠，且四条线基本没什么互相照应的内容。\n\\line\n剧情: 神人剧情，有一种俺寻思能行结果就行的感觉。剧情非常潦草没什么细节，主要多少沾点抽象，最正常的大概就是...并没有正常线路。\n\\line\n画风CG: 说实话，相比上一作 灵感满溢的甜蜜创想 这作的画风我更喜欢，细节更多一些，CG也没那么敷衍。\n\\line\n配音配乐: 配音没什么可说正常废萌水准，配乐这块真没什么氛围感和沉浸感，但也能挑出几首不错的。\n\\line\n系统: 窗社祖传系统，内容齐全但没什么特点。\n\\line\nH场景: 说实话H场景这块我基本没怎么看，但感觉多少比灵感满溢好些。"
   },
   {
-    "id": 50,
+    "id": 51,
     "title_translated": "奇异恩典 -What color is your attribute?-",
     "title_original": "アメイジング・グレイス -What color is your attribute?-",
     "company": "Cabbage Soft",
-    "cover_image": "images/amazing-grace.jpg",
+    "cover_image": "amazing-grace.webp",
     "vndb_url": "https://vndb.org/v23448",
-    "tags": ["长时长", "轮回", "悬疑", "佳作"],
+    "tags": ["轮回", "悬疑", "佳作"],
+    "time_length": 30,
     "rating_overall": 8.0,
     "rating_details": {
       "剧情": 8,
@@ -956,11 +1007,30 @@
     "review_full": "我认为除开三个问题以外绝对能算进剧情作的一部作品。\n\\line\n剧情: 设定是一个被莫名原因毁灭的小镇，主角通过一次一次轮回逐渐找到真相。\n我觉得剧情方面比较需要吐槽的：第一个是真相大白之前的个人线结尾处理，就潦草的...没了，对的就是直接跑路了。那我寻思得在后日谈详细补点离开小镇的内容吧，结果还是水的一批，和水葬银货在这一块有异曲同工之妙。\n第二个是主角刚来时被咲夜忽悠的304天，304天啊，认真的吗？就算当时男主已经忘了一些外界的内容但他是怎么心甘情愿的被忽悠在咲夜的房间整整304天，really？？\n抛开这两个问题其实节奏还算不错，但中间有几个几乎纯凑数的间章。考虑到这些问题真的很可惜没法给剧情更高的分数。除此之外都很优秀。\n\\line\n画风CG: 算优秀，但也太少了吧（卷心菜传统艺能这一块）。\n\\line\n配音配乐: 很喜欢有圣诞氛围的几个小曲，反而是配音这块总感觉有些奇怪，有点刻意了。\n\\line\n系统: 卷心菜社祖传系统。\n\\line\nH场景: 很奇怪的是有几张CG非常敷衍，其他都属于卷心菜社传统水平，实用性一般。"
   },
   {
+    "id": 52,
+    "title_translated": "魔法少女的魔女审判",
+    "title_original": "魔法少女ノ魔女裁判",
+    "company": "Acacia",
+    "cover_image": "manosaba.webp",
+    "vndb_url": "https://vndb.org/v50283",
+    "tags": ["智斗", "审判", "绝望", "剧情作", "全年龄"],
+    "time_length": 27,
+    "rating_overall": 9.5,
+    "rating_details": {
+      "剧情": 9.5,
+      "画风CG": 10,
+      "配音配乐": 8.5,
+      "系统": 7
+    },
+    "review_short": "四个字",
+    "review_full": "占位符"
+  },
+  {
     "id": 999,
     "title_translated": "",
     "title_original": "",
     "company": "",
-    "cover_image": "images/",
+    "cover_image": "",
     "vndb_url": "",
     "tags": [],
     "rating_overall": 7.0,
