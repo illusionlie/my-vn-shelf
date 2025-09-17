@@ -404,6 +404,30 @@ body.drawer-open {
     transition: opacity var(--transition-medium);
 }
 
+.vn-cover-container {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+}
+
+.vn-cover-container img {
+    max-width: 100%; /* 确保图片响应式 */
+    display: block;
+}
+
+.vn-cover-badge {
+    position: absolute;
+    top: 16px;
+    left: 15px;
+    background-color: #33e42ac1;
+    color: rgba(255, 255, 255, 0.845);
+    padding: 14px 9px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    z-index: 1;
+}
+
 .vn-card {
     background: var(--card-bg-color);
     border-radius: var(--border-radius-md);
@@ -412,7 +436,7 @@ body.drawer-open {
     transition: transform var(--transition-medium), box-shadow var(--transition-medium);
     display: flex;
     flex-direction: column;
-    backdrop-filter: blur(15px); /* 为卡片也增加模糊效果 */
+    backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     border: 1px solid var(--border-color);
 }

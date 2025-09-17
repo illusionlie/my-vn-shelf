@@ -117,9 +117,10 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         card.innerHTML = `
-            <div class="gallery">
+            <div class="vn-cover-container">
                 <a href="/images/${vn.cover_image}" data-caption="${vn.title_translated}">
                     <img src="/images/thumbnails/${vn.cover_image}" alt="${vn.title_translated} Cover" class="vn-card-cover" loading="lazy">
+                    ${vn.all_ages ? '<span class="vn-cover-badge">全年龄</span>' : ''}
                 </a>
             </div>
             <div class="vn-card-content">

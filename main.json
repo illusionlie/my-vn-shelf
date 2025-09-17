@@ -6,7 +6,8 @@
     "company": "HemiolaStudio",
     "cover_image": "u-ena.webp",
     "vndb_url": "https://vndb.org/v30922",
-    "tags": ["科幻", "全年龄"],
+    "tags": ["科幻", "萝莉"],
+    "all_ages": true,
     "time_length": 13,
     "rating_overall": 7.0,
     "rating_details": {
@@ -46,6 +47,7 @@
     "cover_image": "fatal12.webp",
     "vndb_url": "https://vndb.org/v19843",
     "tags": ["悬疑", "智斗", "命运"],
+    "all_ages": true,
     "time_length": 24,
     "rating_overall": 8.5,
     "rating_details": {
@@ -104,7 +106,8 @@
     "company": "Frontwing",
     "cover_image": "atri.webp",
     "vndb_url": "https://vndb.org/v27448",
-    "tags": ["末日", "机器人", "全年龄"],
+    "tags": ["末日", "机器人"],
+    "all_ages": true,
     "time_length": 13,
     "rating_overall": 7.5,
     "rating_details": {
@@ -163,7 +166,8 @@
     "company": "Shiratamaco",
     "cover_image": "hoshizora.webp",
     "vndb_url": "https://vndb.org/v28297",
-    "tags": ["火车", "萝莉", "全年龄"],
+    "tags": ["火车", "萝莉"],
+    "all_ages": true,
     "time_length": 9,
     "rating_overall": 9.0,
     "rating_details": {
@@ -282,7 +286,8 @@
     "company": "Frontwing",
     "cover_image": "ginka.webp",
     "vndb_url": "https://vndb.org/v38430",
-    "tags": ["奇幻", "全年龄", "神明"],
+    "tags": ["奇幻", "神明"],
+    "all_ages": true,
     "time_length": 12,
     "rating_overall": 7.5,
     "rating_details": {
@@ -341,7 +346,8 @@
     "company": "WhitePowder",
     "cover_image": "kiramon.webp",
     "vndb_url": "https://vndb.org/v24802",
-    "tags": ["电波系", "喜剧", "Meta", "全年龄"],
+    "tags": ["电波系", "喜剧", "Meta"],
+    "all_ages": true,
     "time_length": 8,
     "rating_overall": 8.5,
     "rating_details": {
@@ -461,6 +467,7 @@
     "cover_image": "9-nine-New-Episode.webp",
     "vndb_url": "https://vndb.org/v29724",
     "tags": ["奇幻", "悬疑", "FD", "分割商法"],
+    "all_ages": true,
     "time_length": 4,
     "rating_overall": 6.5,
     "rating_details": {
@@ -619,7 +626,8 @@
     "company": "Kemco Corporation",
     "cover_image": "Rei-Jin-G-Lu-P.webp",
     "vndb_url": "https://vndb.org/v21289",
-    "tags": ["轮回", "狼人", "剧情作", "全年龄"],
+    "tags": ["轮回", "狼人", "剧情作"],
+    "all_ages": true,
     "time_length": 37,
     "rating_overall": 10.0,
     "rating_details": {
@@ -638,7 +646,8 @@
     "company": "LIFE0",
     "cover_image": "Doriher.webp",
     "vndb_url": "https://vndb.org/v28915",
-    "tags": ["梦境", "绝望", "全年龄"],
+    "tags": ["梦境", "绝望"],
+    "all_ages": true,
     "time_length": 7,
     "rating_overall": 7.5,
     "rating_details": {
@@ -677,7 +686,8 @@
     "company": "绘恋制作组",
     "cover_image": "tricolour-lovestory.webp",
     "vndb_url": "https://vndb.org/v21803",
-    "tags": ["三角恋", "校园", "全年龄"],
+    "tags": ["三角恋", "校园"],
+    "all_ages": true,
     "time_length": 44,
     "rating_overall": 3.5,
     "rating_details": {
@@ -915,7 +925,8 @@
     "company": "Key",
     "cover_image": "Stella-of-The-End.webp",
     "vndb_url": "https://vndb.org/v29443",
-    "tags": ["科幻", "末日", "机器人", "全年龄"],
+    "tags": ["科幻", "末日", "机器人"],
+    "all_ages": true,
     "time_length": 10,
     "rating_overall": 8.5,
     "rating_details": {
@@ -934,7 +945,8 @@
     "company": "Totometori",
     "cover_image": "Putorika-1st.webp",
     "vndb_url": "https://vndb.org/v49261",
-    "tags": ["魔法", "抑郁", "全年龄"],
+    "tags": ["魔法", "抑郁"],
+    "all_ages": true,
     "time_length": 4,
     "rating_overall": 8.0,
     "rating_details": {
@@ -963,7 +975,7 @@
       "系统": 8.5,
       "H场景": 7.5
     },
-    "review_short": "一言难尽，瑕瑜互见。但还是推荐一试",
+    "review_short": "一言难尽，瑕瑜互见。但还是值得尝试一试",
     "review_full": "第一次接触到卷心菜社的战斗系作品，说实话我是挺看好这部作品的，但奈何扣分点太多了，给我一种努力了但苦于经费不足的感觉，我对其前中后期看法基本不同，卷心菜社真的这么穷吗。\n\\line\n剧情: 世界观设定挺有意思，后面的反转也确实有点小震撼。\n前期节奏很好，大家就着同一个目标慢慢拉近关系；中期有些拖延，感觉干了些什么但又没干什么；后期有点敷衍...或者是节奏加快了，主角团这个提升也基本是在后期。\n人物塑造这一块还是不错的，爱莉安娜赛高！全程下来各个主角的性格和问题还是很鲜明的。\n\\line\n画风CG: 白玉画风神中神，但比较难绷的是主角组的每个人的战斗CG从头用到尾，除了加了个特效以外没什么区别。\n战斗很少会有CG，描述也相对敷衍，基本就是全靠脑补，给我的感觉就是超级经费不足（但凡多点CG！！）\n\\line\n配音配乐: 流程比较长，音乐复用比较多，除开这个问题以外氛围感还是不错的。\n\\line\n系统: 卷心菜社祖传系统，大多数确定要点两下有点难受。\n\\line\nH场景: 感觉比奇异恩典好，但有点审美疲劳了，实用性还可以"
   },
   {
@@ -1013,17 +1025,18 @@
     "company": "Acacia",
     "cover_image": "manosaba.webp",
     "vndb_url": "https://vndb.org/v50283",
-    "tags": ["智斗", "审判", "绝望", "剧情作", "全年龄"],
+    "tags": ["智斗", "审判", "绝望", "剧情作"],
+    "all_ages": true,
     "time_length": 27,
     "rating_overall": 9.5,
     "rating_details": {
       "剧情": 9.5,
       "画风CG": 10,
       "配音配乐": 8.5,
-      "系统": 7
+      "系统": 7.5
     },
-    "review_short": "四个字",
-    "review_full": "占位符"
+    "review_short": "毫无疑问的神作。画风精美，推理逻辑环环相扣",
+    "review_full": "都说推理系作品不养闲人，这下也是真见识到了，一个初创的会社就直接给大伙整了个大活，毫无疑问我心目中的神作+1。一周目靠手上的证据环环相扣的推理。二周目没法收集证据靠虚张声势、伪证推理。\n\\line\n剧情: 自从玩过人狼村之谜后我就很吃各种开庭审判这一套。剧情节奏偏快，但合适，同时突发事件出现的也很是时候。虽然包含很多坏结局，但大多数都要么没什么意义，要么相对敷衍基本就当是个添头。\n\\line\n画风CG: 当时看到宣传图就给我吸引住了。很喜欢这种色彩鲜艳且人物特征明显的设计，CG更是可以单独拿出来展览的级别。\n\\line\n配音配乐: 据说CV都是新人但其实感觉除了少数地方情感稍稍没有到位以外都很不错。配乐更是直接让我狠狠爱了，尤其是魔女审判时的音乐。\n\\line\n系统: 系统其实问题挺大的，一个是最重要的历史回跳都没有，一个是切换存档页数的时候存档出现速度极其慢（就真的几乎是一个一个出现的那种），要是你一下翻多了就得硬控好半天。以及鉴赏功能只能查看CG，也没有音乐鉴赏和立绘鉴赏真的太可惜了（很多女主我甚至不知道下半身是什么样）。"
   },
   {
     "id": 999,
@@ -1033,6 +1046,7 @@
     "cover_image": "",
     "vndb_url": "",
     "tags": [],
+    "all_ages": false,
     "rating_overall": 7.0,
     "rating_details": {
       "剧情": 6.5,
