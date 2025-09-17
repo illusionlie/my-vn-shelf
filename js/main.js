@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Data Fetching ---
     async function fetchData() {
         try {
-            const response = await fetch('main.json');
+            const response = await fetch('/main.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
