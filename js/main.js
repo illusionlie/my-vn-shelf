@@ -17,6 +17,37 @@ document.addEventListener('DOMContentLoaded', () => {
     const mainHeader = document.querySelector('.main-header');
     const moreMenuToggle = document.getElementById('more-menu-toggle');
     const moreMenu = document.getElementById('more-menu');
+    const loadingProgressBar = document.getElementById('loading-progress-bar');
+    const progressFill = loadingProgressBar.querySelector('.progress-fill');
+
+    // --- Loading Progress Bar Management ---
+    function updateProgress(percentage) {
+        if (progressFill) {
+            progressFill.style.width = `${Math.min(100, Math.max(0, percentage))}%`;
+        }
+    }
+
+    function hideProgressBar() {
+        if (loadingProgressBar) {
+            updateProgress(100);
+            setTimeout(() => {
+                loadingProgressBar.classList.add('hidden');
+            }, 300); // 等待进度条到达100%后再隐藏
+        }
+    }
+
+    function simulateProgress() {
+        let progress = 0;
+        const interval = setInterval(() => {
+            progress += Math.random() * 15 + 5; // 每次增加5-20%
+            if (progress >= 90) {
+                progress = 90; // 停在90%，等待实际加载完成
+                clearInterval(interval);
+            }
+            updateProgress(progress);
+        }, 100);
+        return interval;
+    }
 
     // --- Theme Management ---
     const ICONS = {
@@ -55,51 +86,78 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Data Fetching ---
     async function fetchData() {
+        // 显示进度条并开始模拟进度
+        if (loadingProgressBar) {
+            loadingProgressBar.classList.remove('hidden');
+            updateProgress(0);
+        }
+        const progressInterval = simulateProgress();
+
         try {
+            updateProgress(10); // 开始请求
             const response = await fetch('/main.json');
+
+            updateProgress(40); // 收到响应
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
+
+            updateProgress(70); // 开始解析数据
             allVns = await response.json();
-            initializeApp();
+
+            updateProgress(90); // 数据解析完成
+            clearInterval(progressInterval); // 停止模拟进度
+
+            // 初始化应用
+            await initializeApp();
+
+            // 隐藏进度条
+            hideProgressBar();
         } catch (error) {
             console.error("Could not fetch VN data:", error);
+            clearInterval(progressInterval);
+            hideProgressBar();
             vnListContainer.innerHTML = "<p>数据加载失败，请检查网络或联系管理员。</p>";
         }
     }
 
     // --- Initialization ---
-    function initializeApp() {
+    async function initializeApp() {
         renderCategories();
-        renderVnList();
+        await renderVnList();
         setupEventListeners();
     }
 
     // --- Rendering Functions ---
     function renderVnList() {
-        // Fade out for smooth transition
-        vnListContainer.style.opacity = '0';
+        return new Promise((resolve) => {
+            // Fade out for smooth transition
+            vnListContainer.style.opacity = '0';
 
-        setTimeout(() => {
-            const query = searchInput.value.toLowerCase();
-            const filteredVns = allVns.filter(vn => {
-                const matchesCategory = currentFilter === 'All' || vn.tags.includes(currentFilter);
-                const matchesSearch = vn.title_translated.toLowerCase().includes(query) || vn.title_original.toLowerCase().includes(query);
-                return matchesCategory && matchesSearch;
-            });
-
-            vnListContainer.innerHTML = ''; // Clear previous list
-            if (filteredVns.length === 0) {
-                vnListContainer.innerHTML = '<p class="no-results">没有找到匹配的结果。</p>';
-            } else {
-                filteredVns.forEach(vn => {
-                    const card = createVnCard(vn);
-                    vnListContainer.appendChild(card);
+            setTimeout(() => {
+                const query = searchInput.value.toLowerCase();
+                const filteredVns = allVns.filter(vn => {
+                    const matchesCategory = currentFilter === 'All' || vn.tags.includes(currentFilter);
+                    const matchesSearch = vn.title_translated.toLowerCase().includes(query) || vn.title_original.toLowerCase().includes(query);
+                    return matchesCategory && matchesSearch;
                 });
-            }
-            // Fade in the new list
-            vnListContainer.style.opacity = '1';
-        }, 200);
+
+                vnListContainer.innerHTML = ''; // Clear previous list
+                if (filteredVns.length === 0) {
+                    vnListContainer.innerHTML = '<p class="no-results">没有找到匹配的结果。</p>';
+                } else {
+                    filteredVns.forEach(vn => {
+                        const card = createVnCard(vn);
+                        vnListContainer.appendChild(card);
+                    });
+                }
+                // Fade in the new list
+                vnListContainer.style.opacity = '1';
+
+                // 等待淡入动画完成后解析 Promise
+                setTimeout(resolve, 300);
+            }, 200);
+        });
     }
 
     function createVnCard(vn) {
